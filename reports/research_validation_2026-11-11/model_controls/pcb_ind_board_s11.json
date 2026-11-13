@@ -1,0 +1,102 @@
+{
+  "fingerprints": {
+    "dataset": "pcb_ind_board",
+    "pattern_key": "pcb_ind",
+    "weights_sha256": "790bfe4a4226da813caef37078720c3afae21e8d55e604b4e0560bcb8b796045",
+    "manifest_sha256": "ad37602abdb69e62ac6108283a59e15f02b69622a527da3102d85056caa18ce9",
+    "classes_sha256": "6b0e22bf2efd1988a308ff0431301aca04c642600239b295802f7f58dfa21203",
+    "condition_config_sha256": "45c37b0dd1e408d0c96eb9888bac7c0ec8f51fb461ca21c24938103b24d144ec",
+    "control_script_sha256": "331339809c2330fb8fa3a42129adc1ce003da41657b60a87431b6087b97d77ae",
+    "source_sha256": {
+      "run_compiled.py": "647b5bbf72d4a53f8847e0413fca4dc6480c30d79f6abdff5dab32194e04f9a4",
+      "safe_compiled_nms.py": "362ed182480a5a652568817601832d223eb963d19b2e807ea17ffa69be61c251",
+      "run_fast.py": "98a09e23f8eee3f464764ab42dbc804763577c5d1e968de708b0beb12485d041",
+      "run.py": "cf7cd56781ac561f05c66d41aad8135826c636520ec8b85f1a58a4689714f9f9",
+      "core.py": "b694f1fcd71408ef1769b3b390d083a36a01ba208503ec10e0b2a4c83f0a7556"
+    }
+  },
+  "all_pass": true,
+  "dataset": "pcb_ind_board",
+  "weights_sha256": "790bfe4a4226da813caef37078720c3afae21e8d55e604b4e0560bcb8b796045",
+  "runner_sha256": "647b5bbf72d4a53f8847e0413fca4dc6480c30d79f6abdff5dab32194e04f9a4",
+  "nms_sha256": "362ed182480a5a652568817601832d223eb963d19b2e807ea17ffa69be61c251",
+  "nms_stats": {
+    "counts": {
+      "calls": 116,
+      "compiled_rank_preserved": 116
+    },
+    "candidate_n": {
+      "n_calls": 116,
+      "min": 1,
+      "median": 11.0,
+      "max": 140,
+      "mean": 19.905172413793103
+    },
+    "settings": {
+      "max_compiled_n": 2048,
+      "near_iou_tolerance": 1e-05,
+      "compiled_dtype": "float32"
+    }
+  },
+  "selected_validation_ids": [
+    "5805_b_001",
+    "5809_t_053",
+    "5811_b_002",
+    "5861_t_002",
+    "6049_t_006",
+    "6119_b_029",
+    "6216_b_006",
+    "6216_b_017",
+    "6236_b_006",
+    "6253_t_018",
+    "6306_t_002",
+    "6314_b_006",
+    "6445_t_011",
+    "6463_b_021",
+    "6539_b_001",
+    "6596_b_023",
+    "9387_b_142"
+  ],
+  "checks": [
+    {
+      "condition": "clean",
+      "n_images": 17,
+      "exact_predictions": true
+    },
+    {
+      "condition": "bright_k25",
+      "n_images": 17,
+      "exact_predictions": true
+    },
+    {
+      "condition": "dark_k25",
+      "n_images": 17,
+      "exact_predictions": true
+    },
+    {
+      "condition": "stuck_k25",
+      "n_images": 17,
+      "exact_predictions": true
+    },
+    {
+      "condition": "bright_k1",
+      "n_images": 17,
+      "exact_predictions": true
+    },
+    {
+      "condition": "bright_k9",
+      "n_images": 17,
+      "exact_predictions": true
+    },
+    {
+      "condition": "bright_partial25",
+      "n_images": 17,
+      "exact_predictions": true
+    },
+    {
+      "condition": "bright_cluster25",
+      "n_images": 17,
+      "exact_predictions": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+/home/hyochang/pixel_sensitivity/data/canonical/pcb_ind_board/dataset.yaml
+{
+  "n_images": 4662,
+  "n_groups": 683,
+  "image_counts": {
+    "train": 3295,
+    "test": 639,
+    "val": 728
+  },
+  "group_counts": {
+    "train": 478,
+    "val": 102,
+    "test": 103
+  },
+  "class_counts": {
+    "train": [
+      566,
+      1025,
+      359,
+      485,
+      880,
+      386,
+      227,
+      107
+    ],
+    "val": [
+      141,
+      286,
+      26,
+      118,
+      162,
+      124,
+      78,
+      13
+    ],
+    "test": [
+      137,
+      403,
+      78,
+      57,
+      132,
+      74,
+      55,
+      12
+    ]
+  }
+}
+READY /home/hyochang/pixel_sensitivity/data/canonical/pcb_ind_board/dataset.yaml

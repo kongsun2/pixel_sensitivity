@@ -1,0 +1,17 @@
+# Proposed diagnostic settings, not a physical fault prevalence or final experiment.
+grid:
+  rows: 2
+  cols: 2
+repeats: 2
+fault_seed_base: 301
+predict:
+  imgsz: 640
+  conf_floor: 0.001
+  nms_iou: 0.7
+  max_det: 300
+evaluation:
+  conf_operating: 0.25
+  match_iou: 0.5
+conditions:
+  - {id: dark1, type: dead_like, target: 0, alpha: 1.0, count: 1, layout: dispersed, side: 1, channels: all}
+  - {id: bright1, type: hot_like, target: 255, alpha: 1.0, count: 1, layout: dispersed, side: 1, channels: all}

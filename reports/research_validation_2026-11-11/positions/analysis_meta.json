@@ -1,0 +1,38 @@
+{
+  "script_sha256": "76e87282ef856abfd7d835b2ea28e4593c898d5f7d6fe63cf2abea0a8376816b",
+  "bootstrap": 4000,
+  "seed": 12011,
+  "nominal_level": 0.95,
+  "method": "crossed group x pattern multinomial product bootstrap; common draw across all locations; centered unstudentized max-absolute simultaneous bands",
+  "exact_or_confirmatory_p_values": false,
+  "inputs": [
+    {
+      "dataset": "gc10_det",
+      "grouping": "recorded_groups",
+      "run_hash": "55c8c089374728e186c45db205ad902ab508e245e1aa000d6753a9a78f04d77d",
+      "paired_csv_sha256": "af958525eec48add0096a2466d2c5020906c6dbdd17991fce080cd5bf7642f3a"
+    },
+    {
+      "dataset": "neu_det",
+      "grouping": "recorded_groups",
+      "run_hash": "95f74d012ff3bb253559b6c382a4a6a4a4819656f726821072c6f7307575d1da",
+      "paired_csv_sha256": "2780a880299d4bc920638e3c1abe774b4dde29ef707a860d01441b9b7f0b98fa"
+    },
+    {
+      "dataset": "pcb_ind",
+      "grouping": "recorded_groups",
+      "run_hash": "583639e1243ac63e02b416244d41cf429e2e1dba6e7087a6661177c0f3035fc8",
+      "paired_csv_sha256": "2e04b3f0002cbb5888e9374d5afc76e6ff47a66e18770f0a0bc059bbde372883"
+    },
+    {
+      "dataset": "pcb_ind",
+      "grouping": "numeric_id_groups",
+      "run_hash": "583639e1243ac63e02b416244d41cf429e2e1dba6e7087a6661177c0f3035fc8",
+      "paired_csv_sha256": "2e04b3f0002cbb5888e9374d5afc76e6ff47a66e18770f0a0bc059bbde372883"
+    }
+  ],
+  "sources": [
+    "https://doi.org/10.1214/07-AOAS122",
+    "https://doi.org/10.1214/12-AOAS547"
+  ]
+}

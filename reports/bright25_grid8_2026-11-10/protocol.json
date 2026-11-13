@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-10",
+  "config_sha256": "f676e7e04e4c3823af8f7c74b396d3e0709227cc06ba56f807d8e8b730840903",
+  "script_sha256": "4cb52c47144735309301842c65c330dcbe5f45b16cd286f08ddc8b6237afc7f7",
+  "datasets": {
+    "gc10_det": {
+      "old_run": "gc10_s11_frozen",
+      "weights": "/home/hyochang/pixel_sensitivity/runs/train/gc10_yolov8n_s11/weights/best.pt",
+      "weights_sha256": "4c107fd5b8ef0bb8a9eeb8924fa0caf21ebf0f525ab472c839240fcaecb07797",
+      "manifest_sha256": "367be5d6ce4452af17f3f72d6bba4cc54b9ccc82ee8c32c6e8ba41bad751d638",
+      "classes_sha256": "1b3ca855c9c8fa53e23afada4344fc2fb88d4ae1d66a31b06bb36e65fdfaf724",
+      "n_test": 354
+    },
+    "neu_det": {
+      "old_run": "neu_det_s11_bright",
+      "weights": "/home/hyochang/pixel_sensitivity/runs/train/neu_det_yolov8n_s11/weights/best.pt",
+      "weights_sha256": "d7efdcfb83576c3dff9435b6a36d6d0fa1c9cb8fe747229081e5c549830937b5",
+      "manifest_sha256": "d0d9c766dc8fefcbdec59a6dd33e9e8ad72e03a26949b9ae080eeaa5f7c632cf",
+      "classes_sha256": "16320c73b7ee57a0b94505083f7cae5f7b5907701b1ec193ecc945f471934728",
+      "n_test": 270
+    },
+    "pcb_ind": {
+      "old_run": "pcb_ind_s11_bright",
+      "weights": "/home/hyochang/pixel_sensitivity/runs/train/pcb_ind_yolov8n_s11/weights/best.pt",
+      "weights_sha256": "0d54d12af5d5004b7c55fbdbd69727f6d7ab743a743ea6d6eeaa72c43f62b76c",
+      "manifest_sha256": "cd2bab0597d3573804a13b26478726443ec056536c4ebbb77a33033857e28a20",
+      "classes_sha256": "6b0e22bf2efd1988a308ff0431301aca04c642600239b295802f7f58dfa21203",
+      "n_test": 469
+    }
+  },
+  "notes": "Reuse same trained models and full test sets. Grid changed from4 to8; 25 sites now confined to a quarter-sized cell, and grid-dependent RNG gives new patterns. Thus this is a new localized injection experiment, not interpolation or a pure resolution-only comparison."
+}

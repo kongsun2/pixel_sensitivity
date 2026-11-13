@@ -1,0 +1,9 @@
+dataset,class_id,class_name,n_gt,n_clean_tp,clean_recall
+pcb_ind_board,0,mouse_bite,137,68,0.49635036496350365
+pcb_ind_board,1,missing_copper,403,330,0.8188585607940446
+pcb_ind_board,2,scratch,78,47,0.6025641025641025
+pcb_ind_board,3,spurious_copper,57,36,0.631578947368421
+pcb_ind_board,4,copper_burr,132,110,0.8333333333333334
+pcb_ind_board,5,stain,74,25,0.33783783783783783
+pcb_ind_board,6,short,55,37,0.6727272727272727
+pcb_ind_board,7,open,12,8,0.6666666666666666

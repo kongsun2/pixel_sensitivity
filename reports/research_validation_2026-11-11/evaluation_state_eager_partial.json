@@ -1,0 +1,41 @@
+{
+  "gc10_det_s11__bright_k25": {
+    "status": "complete",
+    "dataset": "gc10_det",
+    "seed": 11,
+    "condition": "bright_k25",
+    "run_path": "/home/hyochang/pixel_sensitivity/runs/research_validation_20261111/gc10_det_s11__bright_k25",
+    "config_path": "/home/hyochang/pixel_sensitivity/configs/research_validation/bright_k25.yaml",
+    "weights_path": "/home/hyochang/pixel_sensitivity/runs/train/gc10_yolov8n_s11/weights/best.pt",
+    "pattern_key": "gc10_det",
+    "weights_sha256": "4c107fd5b8ef0bb8a9eeb8924fa0caf21ebf0f525ab472c839240fcaecb07797",
+    "manifest_sha256": "367be5d6ce4452af17f3f72d6bba4cc54b9ccc82ee8c32c6e8ba41bad751d638",
+    "classes_sha256": "1b3ca855c9c8fa53e23afada4344fc2fb88d4ae1d66a31b06bb36e65fdfaf724",
+    "n_test": 354,
+    "n_gt": 587,
+    "original_fullcase_max_abs_difference": 0.0,
+    "analysis_output_sha256": {
+      "clean_metrics.json": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9",
+      "condition_metrics.csv": "c167680710e03c2d8f2fa4cb176dd1e0d68916b0d6668e1eaf4caf1bf924613d",
+      "grid_summary.csv": "a1b0145405f5906be7cd1c1f1b2de679d3f42cdaea1a43284c5cca1e21a631b1",
+      "paired_images.csv": "af958525eec48add0096a2466d2c5020906c6dbdd17991fce080cd5bf7642f3a",
+      "occupancy.csv": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446",
+      "analysis_meta.json": "7ab23b24bd39b98b77de0c0a7988f804613e2fe5006ec0dc0f0fb8fcf85af89e"
+    }
+  },
+  "gc10_det_s11__dark_k25": {
+    "status": "inference_running",
+    "dataset": "gc10_det",
+    "seed": 11,
+    "condition": "dark_k25",
+    "run_path": "/home/hyochang/pixel_sensitivity/runs/research_validation_20261111/gc10_det_s11__dark_k25",
+    "config_path": "/home/hyochang/pixel_sensitivity/configs/research_validation/dark_k25.yaml",
+    "weights_path": "/home/hyochang/pixel_sensitivity/runs/train/gc10_yolov8n_s11/weights/best.pt",
+    "pattern_key": "gc10_det",
+    "weights_sha256": "4c107fd5b8ef0bb8a9eeb8924fa0caf21ebf0f525ab472c839240fcaecb07797",
+    "manifest_sha256": "367be5d6ce4452af17f3f72d6bba4cc54b9ccc82ee8c32c6e8ba41bad751d638",
+    "classes_sha256": "1b3ca855c9c8fa53e23afada4344fc2fb88d4ae1d66a31b06bb36e65fdfaf724",
+    "n_test": 354,
+    "n_gt": 587
+  }
+}

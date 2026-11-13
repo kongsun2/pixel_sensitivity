@@ -1,0 +1,11 @@
+{
+  "n_images": 2292,
+  "n_B_groups": 467,
+  "B_cross_split_groups": 137,
+  "B_train_test_overlap": 72,
+  "B_multi_camera_groups": 209,
+  "BC_multi_camera_pairs": 249,
+  "AB_cross_split_groups": 0,
+  "B_physical_meaning": "unconfirmed proxy, interpreted as coil-like only in reference document",
+  "manifest_sha256": "367be5d6ce4452af17f3f72d6bba4cc54b9ccc82ee8c32c6e8ba41bad751d638"
+}

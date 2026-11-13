@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-04",
+  "model": "yolov8n.pt",
+  "training_seed": 11,
+  "epochs_max": 100,
+  "early_stopping_patience": 20,
+  "imgsz": 640,
+  "operating_conf": 0.25,
+  "match_iou": 0.5,
+  "grid": [
+    4,
+    4
+  ],
+  "repeats": 3,
+  "condition_source": "manual pilot settings, fixed before inference",
+  "conditions_sha256": "bfcaaf762e2cf531202665b2d57d00e86ae7a4f5deff3ab69868a94e0c55ad91",
+  "interpretation": "Single-dataset single-training-seed image-space synthetic fault experiment; physical sensor behavior not measured"
+}

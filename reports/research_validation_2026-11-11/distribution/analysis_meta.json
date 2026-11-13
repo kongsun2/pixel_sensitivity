@@ -1,0 +1,12 @@
+{
+  "script_sha256": "925744f307d7b1683564e00ca1344f86462c558311a3b863db35e5d10458d73c",
+  "datasets": [
+    "gc10_det",
+    "neu_det",
+    "pcb_ind"
+  ],
+  "n_folds": 5,
+  "fold_seed": 8811,
+  "model": "out-of-fold stratified descriptive event rates, no cell predictor",
+  "causal_control": false
+}

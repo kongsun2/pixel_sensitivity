@@ -1,0 +1,26 @@
+{
+  "script_sha256": "76e87282ef856abfd7d835b2ea28e4593c898d5f7d6fe63cf2abea0a8376816b",
+  "bootstrap": 4000,
+  "seed": 12011,
+  "nominal_level": 0.95,
+  "method": "crossed group x pattern multinomial product bootstrap; common draw across all locations; centered unstudentized max-absolute simultaneous bands",
+  "exact_or_confirmatory_p_values": false,
+  "inputs": [
+    {
+      "dataset": "pcb_ind_board_s11",
+      "grouping": "recorded_groups",
+      "run_hash": "792712500edac135ccc1a01c63bb718eb570064e673192705af56451cadc09d5",
+      "paired_csv_sha256": "65827ba2bbd555977b9e0c67b1f16ba8020a5e193c34b7fc075f35649fa7e8b4"
+    },
+    {
+      "dataset": "pcb_ind_board_s11",
+      "grouping": "numeric_id_groups",
+      "run_hash": "792712500edac135ccc1a01c63bb718eb570064e673192705af56451cadc09d5",
+      "paired_csv_sha256": "65827ba2bbd555977b9e0c67b1f16ba8020a5e193c34b7fc075f35649fa7e8b4"
+    }
+  ],
+  "sources": [
+    "https://doi.org/10.1214/07-AOAS122",
+    "https://doi.org/10.1214/12-AOAS547"
+  ]
+}

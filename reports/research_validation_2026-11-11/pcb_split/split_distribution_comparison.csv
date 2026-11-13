@@ -1,0 +1,7 @@
+﻿scheme,split,n_images,n_numeric_groups,n_gt,median_gt_area_fraction,gt_center_in_central25pct_by25pct_fraction,class_0_mouse_bite,class_1_missing_copper,class_2_scratch,class_3_spurious_copper,class_4_copper_burr,class_5_stain,class_6_short,class_7_open
+original_official_split,train,3718,597,4746,0.014560262111000012,0.6118836915297092,654,1364,280,576,1023,493,255,101
+original_official_split,val,475,101,638,0.01393857128,0.603448275862069,99,218,91,41,75,39,58,17
+original_official_split,test,469,109,547,0.013845493049999987,0.6654478976234004,91,132,92,43,76,52,47,14
+numeric_group_split_seed101,train,3295,478,4035,0.013921137919999998,0.6463444857496902,566,1025,359,485,880,386,227,107
+numeric_group_split_seed101,val,728,102,948,0.01397566518999999,0.5928270042194093,141,286,26,118,162,124,78,13
+numeric_group_split_seed101,test,639,103,948,0.015544399601500013,0.509493670886076,137,403,78,57,132,74,55,12

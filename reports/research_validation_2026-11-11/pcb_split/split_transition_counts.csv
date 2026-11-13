@@ -1,0 +1,10 @@
+﻿old_split,new_split,n_images
+test,test,77
+test,train,321
+test,val,71
+train,test,523
+train,train,2587
+train,val,608
+val,test,39
+val,train,387
+val,val,49

@@ -1,0 +1,22 @@
+{
+  "source_sha256": "68d266a985c184e9dc21d07055b27b25b6c5ba4b04cdb6d46db1b2dcd7d42581",
+  "inputs": {
+    "gc10_det": {
+      "run_hash": "55c8c089374728e186c45db205ad902ab508e245e1aa000d6753a9a78f04d77d",
+      "condition_metrics_sha256": "c167680710e03c2d8f2fa4cb176dd1e0d68916b0d6668e1eaf4caf1bf924613d",
+      "paired_images_sha256": "af958525eec48add0096a2466d2c5020906c6dbdd17991fce080cd5bf7642f3a"
+    },
+    "neu_det": {
+      "run_hash": "95f74d012ff3bb253559b6c382a4a6a4a4819656f726821072c6f7307575d1da",
+      "condition_metrics_sha256": "44e166603bd6e230f0dddcb66c1c8343639209285acfcf825594b941f54e1dc1",
+      "paired_images_sha256": "2780a880299d4bc920638e3c1abe774b4dde29ef707a860d01441b9b7f0b98fa"
+    },
+    "pcb_ind": {
+      "run_hash": "583639e1243ac63e02b416244d41cf429e2e1dba6e7087a6661177c0f3035fc8",
+      "condition_metrics_sha256": "408bc0e1bc24eaa362159f86ee6c86aa8e662c0c1159e42add2581a2ac37a750",
+      "paired_images_sha256": "2e04b3f0002cbb5888e9374d5afc76e6ff47a66e18770f0a0bc059bbde372883"
+    }
+  },
+  "n_pattern_dataset_rows": 30,
+  "n_overall_rows": 3
+}

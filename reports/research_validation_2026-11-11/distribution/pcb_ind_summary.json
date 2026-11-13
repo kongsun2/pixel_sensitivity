@@ -1,0 +1,40 @@
+{
+  "dataset": "pcb_ind",
+  "title": "PCB-IND",
+  "n_images": 469,
+  "n_gt": 547,
+  "n_clean_tp": 378,
+  "n_crossfit_proxy_groups": 109,
+  "fold_grouping": "numeric filename prefix",
+  "central_width_height_fraction": 0.25,
+  "central_area_fraction": 0.0625,
+  "central_center_count": 364,
+  "central_center_fraction": 0.6654478976234004,
+  "median_gt_area_px": 1246.0943744999988,
+  "median_gt_area_fraction": 0.013845493049999987,
+  "area_tertile_edges_fraction": [
+    0.006765803459999982,
+    0.02720391588
+  ],
+  "mean_recall_drop_pp": 2.0521023765996342,
+  "peak_cell": "G37",
+  "peak_drop_pp": 14.917733089579524,
+  "peak_clean_tp_exposure_fraction": 0.708994708994709,
+  "spearman_drop_box_occupancy": 0.913976287417922,
+  "spearman_drop_clean_tp_exposure": 0.8812557968994982,
+  "raw_cell_drop_spatial_sd_pp": 2.726635271455587,
+  "crossfit_residual_spatial_rms_pp": 1.3126449324124552,
+  "overall_loss_risk_clean_tp": 0.03349454365079365,
+  "loss_risk_when_hit": 0.07484829507417885,
+  "loss_risk_when_unhit": 0.023704968483689734,
+  "lost_objects_hit_fraction": 0.42774281130445513,
+  "overall_lost_object_observations": 8103,
+  "overall_recovered_object_observations": 919,
+  "n_object_observations": 350080,
+  "crossfit_fallback_observation_counts": {
+    "0": 335073,
+    "1": 15007
+  },
+  "peak_crossfit_expected_drop_pp": 10.979578133244345,
+  "peak_residual_drop_pp": 3.938154956335179
+}

@@ -1,0 +1,97 @@
+{
+  "criteria": "Exact TP/FP/FN and COCO AP absolute difference <=1e-6 on fixed validation controls; RGB/BGR injected pixels+metadata exact",
+  "device": "0",
+  "checks": [
+    {
+      "dataset": "gc10_det",
+      "condition": "clean",
+      "n_images": 130,
+      "batch": 64,
+      "operational_equal": true,
+      "ap_max_abs_difference": 2.1590488164191513e-05,
+      "accepted": false,
+      "reference_seconds": 4.156933177262545,
+      "candidate_seconds": 1.9031368009746075
+    },
+    {
+      "dataset": "gc10_det",
+      "condition": "bright_k25",
+      "n_images": 130,
+      "batch": 64,
+      "operational_equal": true,
+      "ap_max_abs_difference": 3.498726337980429e-06,
+      "accepted": false,
+      "reference_seconds": 4.791517674922943,
+      "candidate_seconds": 2.5498197451233864
+    },
+    {
+      "dataset": "gc10_det",
+      "condition": "dark_k25",
+      "n_images": 130,
+      "batch": 64,
+      "operational_equal": true,
+      "ap_max_abs_difference": 1.1919698630707964e-05,
+      "accepted": false,
+      "reference_seconds": 7.619794633239508,
+      "candidate_seconds": 3.9465728662908077
+    },
+    {
+      "dataset": "gc10_det",
+      "condition": "stuck_k25",
+      "n_images": 130,
+      "batch": 64,
+      "operational_equal": true,
+      "ap_max_abs_difference": 1.1467725145042351e-06,
+      "accepted": false,
+      "reference_seconds": 2.432939399033785,
+      "candidate_seconds": 1.9075584411621094
+    },
+    {
+      "dataset": "gc10_det",
+      "condition": "bright_k1",
+      "n_images": 130,
+      "batch": 64,
+      "operational_equal": true,
+      "ap_max_abs_difference": 2.1590488164191513e-05,
+      "accepted": false,
+      "reference_seconds": 2.4858697950839996,
+      "candidate_seconds": 1.9680326394736767
+    },
+    {
+      "dataset": "gc10_det",
+      "condition": "bright_k9",
+      "n_images": 130,
+      "batch": 64,
+      "operational_equal": true,
+      "ap_max_abs_difference": 1.2625003646571376e-05,
+      "accepted": false,
+      "reference_seconds": 2.389838293194771,
+      "candidate_seconds": 2.0614110343158245
+    },
+    {
+      "dataset": "gc10_det",
+      "condition": "bright_partial25",
+      "n_images": 130,
+      "batch": 64,
+      "operational_equal": true,
+      "ap_max_abs_difference": 0.00027820350555557427,
+      "accepted": false,
+      "reference_seconds": 1.9090042784810066,
+      "candidate_seconds": 1.829698633402586
+    },
+    {
+      "dataset": "gc10_det",
+      "condition": "bright_cluster25",
+      "n_images": 130,
+      "batch": 64,
+      "operational_equal": true,
+      "ap_max_abs_difference": 0.0003970522603153337,
+      "accepted": false,
+      "reference_seconds": 2.2104937955737114,
+      "candidate_seconds": 2.03140839189291
+    }
+  ],
+  "all_pass": false,
+  "source_sha256": "1dbd5db167ba3afe47c741b412dd9b65cbd73147d4ead0f035434155a41323ce",
+  "runner_sha256": "e5c8ad95c5aa2f9b333a2154d9ad81c32b04f364be849d597f1d2f5ad739258f"
+}

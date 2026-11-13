@@ -1,0 +1,11 @@
+# Keep a functioning existing YOLOv8 environment when possible.
+# This is an example dependency specification, not a GPU compatibility guarantee.
+# Install the appropriate paired torch/torchvision builds for your GPU separately.
+ultralytics==8.3.221
+numpy
+opencv-python
+PyYAML
+matplotlib
+pandas
+pycocotools
+pytest

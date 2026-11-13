@@ -1,0 +1,26 @@
+# Proposed exploration grid. Freeze a supported range before the final test.
+grid:
+  rows: 4
+  cols: 4
+repeats: 3
+fault_seed_base: 301
+predict:
+  imgsz: 640
+  conf_floor: 0.001
+  nms_iou: 0.7
+  max_det: 300
+evaluation:
+  conf_operating: 0.25
+  match_iou: 0.5
+conditions:
+  - {id: dark_k1, type: dead_like, target: 0, alpha: 1.0, count: 1, layout: dispersed, side: 1, channels: all}
+  - {id: dark_k9, type: dead_like, target: 0, alpha: 1.0, count: 9, layout: dispersed, side: 1, channels: all}
+  - {id: dark_k25, type: dead_like, target: 0, alpha: 1.0, count: 25, layout: dispersed, side: 1, channels: all}
+  - {id: bright_k1, type: hot_like, target: 255, alpha: 1.0, count: 1, layout: dispersed, side: 1, channels: all}
+  - {id: bright_k9, type: hot_like, target: 255, alpha: 1.0, count: 9, layout: dispersed, side: 1, channels: all}
+  - {id: bright_k25, type: hot_like, target: 255, alpha: 1.0, count: 25, layout: dispersed, side: 1, channels: all}
+  - {id: stuck_k9, type: stuck_like, target: 128, alpha: 1.0, count: 9, layout: dispersed, side: 1, channels: all}
+  - {id: dark_cluster9, type: dead_like, target: 0, alpha: 1.0, count: 9, layout: cluster, side: 3, channels: all}
+  - {id: bright_cluster9, type: hot_like, target: 255, alpha: 1.0, count: 9, layout: cluster, side: 3, channels: all}
+  - {id: dark_partial9, type: partial_dark, target: 0, alpha: 0.5, count: 9, layout: dispersed, side: 1, channels: all}
+  - {id: bright_partial9, type: partial_bright, target: 255, alpha: 0.5, count: 9, layout: dispersed, side: 1, channels: all}

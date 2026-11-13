@@ -1,0 +1,40 @@
+{
+  "dataset": "neu_det",
+  "title": "NEU-DET",
+  "n_images": 270,
+  "n_gt": 612,
+  "n_clean_tp": 426,
+  "n_crossfit_proxy_groups": 270,
+  "fold_grouping": "stored group_id",
+  "central_width_height_fraction": 0.25,
+  "central_area_fraction": 0.0625,
+  "central_center_count": 92,
+  "central_center_fraction": 0.1503267973856209,
+  "median_gt_area_px": 4934.5,
+  "median_gt_area_fraction": 0.12336250000000001,
+  "area_tertile_edges_fraction": [
+    0.07629166666666666,
+    0.17295000000000002
+  ],
+  "mean_recall_drop_pp": 0.625765931372549,
+  "peak_cell": "G12",
+  "peak_drop_pp": 1.7810457516339868,
+  "peak_clean_tp_exposure_fraction": 0.33380281690140845,
+  "spearman_drop_box_occupancy": 0.7186076228431312,
+  "spearman_drop_clean_tp_exposure": 0.6906182748618788,
+  "raw_cell_drop_spatial_sd_pp": 0.4148070575277009,
+  "crossfit_residual_spatial_rms_pp": 0.31596367232128003,
+  "overall_loss_risk_clean_tp": 0.017359888497652583,
+  "loss_risk_when_hit": 0.04735406142791539,
+  "loss_risk_when_unhit": 0.006178185516762168,
+  "lost_objects_hit_fraction": 0.7407563912951616,
+  "overall_lost_object_observations": 4733,
+  "overall_recovered_object_observations": 2282,
+  "n_object_observations": 391680,
+  "crossfit_fallback_observation_counts": {
+    "0": 388432,
+    "1": 3248
+  },
+  "peak_crossfit_expected_drop_pp": 0.9728029090642775,
+  "peak_residual_drop_pp": 0.8082428425697094
+}

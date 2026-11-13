@@ -1,0 +1,68 @@
+{
+  "image_id": "5799_t_038",
+  "raw_yolo_lines": [
+    "1 0.493969 0.501644 0.334430 0.336623",
+    "1 0.751097 0.438596 0.035088 0.039473",
+    "1 0.384320 0.731908 0.029606 0.036185",
+    "3 0.974781 0.507675 0.050439 0.190789",
+    "1 0.871162 0.000000 0.257676 0.000000"
+  ],
+  "raw_yolo_n": 5,
+  "raw_yolo_zero_height_n": 1,
+  "coco_valid_annotations": [
+    {
+      "id": 38,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        98.0262,
+        99.99975,
+        100.329,
+        100.9869
+      ],
+      "area": 10131.91469,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        220.0659,
+        125.65785,
+        10.5264,
+        11.8419
+      ],
+      "area": 124.652576,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        110.8551,
+        214.14465,
+        8.8818,
+        10.8555
+      ],
+      "area": 96.41638,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 31,
+      "category_id": 3,
+      "bbox": [
+        284.86845,
+        123.68415,
+        15.13155,
+        57.2367
+      ],
+      "area": 866.079988,
+      "iscrowd": 0
+    }
+  ],
+  "coco_n": 4,
+  "current_canonical_policy": "uses official COCO, four positive-area boxes, no zero-height box"
+}

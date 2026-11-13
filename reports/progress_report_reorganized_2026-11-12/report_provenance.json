@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-12",
+  "source_docx": "/home/hyochang/pilot_progress_report.docx",
+  "source_docx_sha256": "802825bece91aa8f4b4b898ea52e63555500d54843c0f4dca20e87a025842eb3",
+  "reference_use": "format and narrative organization only; no reference experimental contents reused",
+  "current_series_inputs": {
+    "reports/research_validation_2026-11-11/summary/condition_means.csv": "f345394f5934c234a3facb4735b30d599c1ffcfe86448d0e062fcfa3001d2d46",
+    "reports/research_validation_2026-11-11/summary/clean_baselines.csv": "8b2860435ebee6a1a0a12fec1f196945733d4a4aec96811788b57af9181d96b3",
+    "reports/research_validation_2026-11-11/summary/bright25_seed_summary.csv": "432f8efe9cefe9fa64d822a4b3b2633fc2f6cfbf865b1e321f8b620fb9586d4e",
+    "reports/research_validation_2026-11-11/corrected_pcb_distribution/dataset_summary.csv": "1146892c7ab66b9a9c1b93cd0a096fa53c85b39316a000ab83d28ba5a658a3db",
+    "reports/research_validation_2026-11-11/corrected_pcb_positions/position_effect_summary.csv": "69c82c73a16f0a43a1ae7950bf7c71f77b6f8e21d0db13f922f4b26797a6bb24",
+    "reports/progress_report_reorganized_2026-11-12/clean_per_class_seed11.csv": "daa8ead80dcf858cd1ca6d79cdcc3eec5fcba4d3cc30d64f66aff60614873b29"
+  },
+  "output_docx": "/home/hyochang/pilot_progress_report_reorganized.docx",
+  "output_docx_sha256": "55fcce3371828714bdf9b52dbc2adce272f82a17a929a22bd1f1f717e647d445",
+  "script_sha256": "842dd26a76021425cb65426064411cba8780c94bad1348a6d3e4410270d55ea5",
+  "tables": 17,
+  "inline_figures": 6,
+  "word_rendering": "OOXML structure checked; companion PDF uses same content HTML, not Microsoft Word pagination",
+  "output_pdf": "/home/hyochang/pilot_progress_report_reorganized.pdf",
+  "output_pdf_sha256": "b1be0d489483ed330c13d5a9d22343fdb4c54530430559da6edb55991ad5a8e9",
+  "pdf_pages": 13,
+  "validated_original_preserved": true,
+  "validated_reference_format_only": true
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "dataset": "gc10_det",
+    "class": "crease",
+    "image_id": "img_02_4406783500_00004",
+    "image_path": "/home/hyochang/pixel_sensitivity/data/canonical/gc10_det/images/img_02_4406783500_00004.png"
+  },
+  {
+    "dataset": "gc10_det",
+    "class": "punching_hole",
+    "image_id": "img_06_4402541100_00001",
+    "image_path": "/home/hyochang/pixel_sensitivity/data/canonical/gc10_det/images/img_06_4402541100_00001.png"
+  },
+  {
+    "dataset": "neu_det",
+    "class": "crazing",
+    "image_id": "crazing_77",
+    "image_path": "/home/hyochang/pixel_sensitivity/data/canonical/neu_det/images/crazing_77.png"
+  },
+  {
+    "dataset": "neu_det",
+    "class": "scratches",
+    "image_id": "scratches_132",
+    "image_path": "/home/hyochang/pixel_sensitivity/data/canonical/neu_det/images/scratches_132.png"
+  },
+  {
+    "dataset": "pcb_ind_board",
+    "class": "short",
+    "image_id": "9440_b_031",
+    "image_path": "/home/hyochang/pixel_sensitivity/data/canonical/pcb_ind_board/images/9440_b_031.png"
+  },
+  {
+    "dataset": "pcb_ind_board",
+    "class": "missing_copper",
+    "image_id": "6313_t_012",
+    "image_path": "/home/hyochang/pixel_sensitivity/data/canonical/pcb_ind_board/images/6313_t_012.png"
+  }
+]

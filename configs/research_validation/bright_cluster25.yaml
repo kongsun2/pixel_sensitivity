@@ -1,0 +1,22 @@
+grid:
+  rows: 8
+  cols: 8
+repeats: 10
+fault_seed_base: 301
+predict:
+  imgsz: 640
+  conf_floor: 0.001
+  nms_iou: 0.7
+  max_det: 300
+evaluation:
+  conf_operating: 0.25
+  match_iou: 0.5
+conditions:
+- id: bright_cluster25
+  type: hot_like
+  target: 255
+  alpha: 1.0
+  count: 25
+  layout: cluster
+  side: 5
+  channels: all

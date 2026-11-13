@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-10",
+  "config_sha256": "c54644b1db69fd0f0f1fd077bc28c08cde1be75509a0ac336032b1ec8275a853",
+  "source_sha256": "dfad8a87411e235ebf5160ecb067a386828f6dd2eb15bec379a3057d8a017225",
+  "patterns": "10 dispersed random-placement masks, not 10 defect types; P01..P03 reused after contract+SHA verification; P04..P10 newly evaluated",
+  "averaging": "For each dataset/pattern average 64 independent location evaluations; overall equal mean of 10 pattern means. Do not combine predictions from different masks into a single AP evaluation.",
+  "datasets": {
+    "gc10_det": {
+      "n_test": 354,
+      "weights_sha256": "4c107fd5b8ef0bb8a9eeb8924fa0caf21ebf0f525ab472c839240fcaecb07797",
+      "manifest_sha256": "367be5d6ce4452af17f3f72d6bba4cc54b9ccc82ee8c32c6e8ba41bad751d638"
+    },
+    "neu_det": {
+      "n_test": 270,
+      "weights_sha256": "d7efdcfb83576c3dff9435b6a36d6d0fa1c9cb8fe747229081e5c549830937b5",
+      "manifest_sha256": "d0d9c766dc8fefcbdec59a6dd33e9e8ad72e03a26949b9ae080eeaa5f7c632cf"
+    },
+    "pcb_ind": {
+      "n_test": 469,
+      "weights_sha256": "0d54d12af5d5004b7c55fbdbd69727f6d7ab743a743ea6d6eeaa72c43f62b76c",
+      "manifest_sha256": "cd2bab0597d3573804a13b26478726443ec056536c4ebbb77a33033857e28a20"
+    }
+  },
+  "total_evaluations_including_reuse": 700613,
+  "new_evaluations": 489664
+}

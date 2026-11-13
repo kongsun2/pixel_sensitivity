@@ -1,0 +1,16 @@
+{
+  "run_hash": "6ed74fa4bd54bf124960108b3b616f44ad623b047f57e4694b4af32809c82287",
+  "conf_operating": 0.25,
+  "match_iou": 0.5,
+  "conf_floor": 0.001,
+  "bootstrap": 2000,
+  "bootstrap_seed": 991,
+  "source_sha256": {
+    "analyze.py": "9ab89d319a4cca27aebbd54e768600b8dc0cc35d3ed4181b80975ae40af450ed",
+    "core.py": "b694f1fcd71408ef1769b3b390d083a36a01ba208503ec10e0b2a4c83f0a7556",
+    "coco_metrics.py": "2e0c27646a9f7a89a2abb7d682336651247c1676f6a49c415322ef3ee42c1c9b"
+  },
+  "interval_scope": "pointwise group+pattern bootstrap; conditional on this trained checkpoint and fixed protocol",
+  "macro_map": "COCO official evaluator, maxDets=100, only if --ap",
+  "sensitivity_unit": "fraction; multiply by 100 for percentage points"
+}

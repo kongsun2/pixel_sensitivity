@@ -1,0 +1,18 @@
+.venv/
+data/
+runs/
+logs/
+__pycache__/
+.pytest_cache/
+*.pt
+!models/**/best.pt
+.ultralytics/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Local report review material, including the unrelated format reference.
+reports/**/pdf_preview/
+reports/**/reference_document_extract.json

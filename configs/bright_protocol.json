@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-05",
+  "datasets": [
+    "pcb_ind",
+    "neu_det"
+  ],
+  "model": "yolov8n.pt",
+  "training_seed": 11,
+  "epochs_max": 100,
+  "patience": 20,
+  "split_seed": 101,
+  "config_sha256": "2f0d884e0715c0075d56411db44cc4cd2e4a68c495840e7102731f4d4e4f5291",
+  "source_gc10_config_sha256": "bfcaaf762e2cf531202665b2d57d00e86ae7a4f5deff3ab69868a94e0c55ad91",
+  "notes": "Same bright conditions and evaluation parameters as GC10. Image-space counts; original resolutions differ. All settings fixed before these two test evaluations."
+}

@@ -1,0 +1,82 @@
+{
+  "dataset": "neu_det",
+  "n_source": 1800,
+  "n_retained": 1798,
+  "split_counts": {
+    "train": 1258,
+    "test": 270,
+    "val": 270
+  },
+  "class_counts": {
+    "train": [
+      481,
+      708,
+      602,
+      295,
+      437,
+      377
+    ],
+    "val": [
+      105,
+      166,
+      144,
+      69,
+      96,
+      88
+    ],
+    "test": [
+      102,
+      136,
+      128,
+      68,
+      95,
+      83
+    ]
+  },
+  "exact_duplicates_excluded": [],
+  "conflicting_exact_duplicate_groups_excluded": [
+    [
+      "patches_101",
+      "patches_105"
+    ]
+  ],
+  "empty_labels_excluded": [],
+  "duplicate_annotations_removed": [
+    {
+      "image_id": "crazing_120",
+      "box": [
+        0,
+        0.0,
+        80.0,
+        117.0,
+        146.0
+      ]
+    },
+    {
+      "image_id": "inclusion_62",
+      "box": [
+        1,
+        38.0,
+        76.0,
+        59.0,
+        140.0
+      ]
+    },
+    {
+      "image_id": "patches_198",
+      "box": [
+        2,
+        157.0,
+        67.0,
+        200.0,
+        158.0
+      ]
+    }
+  ],
+  "difficult_source_objects": 81,
+  "difficult_policy": "Include all difficult objects as ordinary GT; none ignored or silently removed",
+  "coordinate_convention": "VOC 1-based inclusive -> 0-based half-open (xmin/ymin minus 1)",
+  "split_policy": "NEU: per-filename-class stratified 70/15/15, seed=101; no verified product/capture grouping available",
+  "grouping_warning": "Image IDs are used as bootstrap groups; independent source products/coils are unverified",
+  "near_duplicate_audit": "Exact decoded pixels checked; no manual near-duplicate audit"
+}

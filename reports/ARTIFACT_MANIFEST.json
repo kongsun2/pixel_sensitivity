@@ -1,0 +1,2550 @@
+{
+  "purpose": "Compact copy of existing results for Git; original runs and data are unchanged",
+  "main_completed_jobs": 27,
+  "copied_file_count": 392,
+  "copied_bytes": 100195658,
+  "files": [
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8/run_meta.json",
+      "bytes": 12313,
+      "sha256": "1d230c5b5604614a2d5b79d49663b88ceeacca9ffec54d3371714d6cccacd4de"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "3da9da4e3d75e2a2560a79df93d4d10d4ea239e073829eae9460728e58a41b42"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8/analysis/bright_k25_recall_map.png",
+      "bytes": 220175,
+      "sha256": "9e14792596d612c05ce581b9856b95fc238c39698e24149bdd3b65dac0f4e231"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8/analysis/condition_metrics.csv",
+      "bytes": 36803,
+      "sha256": "16974e4073f2f36bc6037403b32a69bbf9b3cec5a417f25ad0670b259f9084e4"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8/analysis/grid_summary.csv",
+      "bytes": 17108,
+      "sha256": "d769980d1bab30b66d56d44db9fbb771bbe2d88005e7f91d3d84618a8d9a4c25"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8_p10/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8_p10/run_meta.json",
+      "bytes": 12727,
+      "sha256": "f75b41b43bd12d19327c93abafa845135c61c60faa4c932cf4798bb47dc3008d"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8_p10/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8_p10/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "e444bfee04b35bd5b1c2a5211de45eee65c7bb84e8598552cd564afb5f986c6b"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8_p10/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8_p10/analysis/bright_k25_recall_map.png",
+      "bytes": 227405,
+      "sha256": "e086501afb17d6f29aa93c5bcc54c363433fbb3729503685be19cd263c34da49"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8_p10/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8_p10/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8_p10/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8_p10/analysis/condition_metrics.csv",
+      "bytes": 121680,
+      "sha256": "c167680710e03c2d8f2fa4cb176dd1e0d68916b0d6668e1eaf4caf1bf924613d"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8_p10/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8_p10/analysis/grid_summary.csv",
+      "bytes": 17742,
+      "sha256": "a1b0145405f5906be7cd1c1f1b2de679d3f42cdaea1a43284c5cca1e21a631b1"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8_p10/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_det_s11_bright25_g8_p10/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/run_meta.json",
+      "bytes": 14460,
+      "sha256": "4b479aef4539b791ec63859486335ff3d78400ca2cf6ee2be0047063fd075e18"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/REPORT_KO.md",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/REPORT_KO.md",
+      "bytes": 5865,
+      "sha256": "0486f09793315a432ad8a9a3d5e1fe277aee2fc331d144e21a0c8ec13fe36839"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/all_sensitivity_maps.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/all_sensitivity_maps.png",
+      "bytes": 432230,
+      "sha256": "42990718a061b712cac227b8770b55f7ef9ff1aed33fd800f1a4c977c2de4314"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "8797a23592661632ea7b8eb471b972e35c0ff2c002b7df2cf19dd5b084dc1c82"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/bright_cluster9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/bright_cluster9_recall_map.png",
+      "bytes": 99018,
+      "sha256": "876c84478af685cdd493ceeae2348dd8f8a661bf6872dc405cc3f518b56e5c83"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/bright_k1_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/bright_k1_recall_map.png",
+      "bytes": 92036,
+      "sha256": "aa9fa1ed296f83b0decf4c6a23a5d8c3d597d5c2a337e9972a8f4d1bd5440d0b"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/bright_k25_recall_map.png",
+      "bytes": 101494,
+      "sha256": "d6ac834c7acdce9d7163b5be5e44a620b3e36697b1d05ee07cc7326574700d8a"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/bright_k9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/bright_k9_recall_map.png",
+      "bytes": 100595,
+      "sha256": "7414edac3c1f8abeed0daa055e86f412a2c4f4fb2698cef76dae163386fef711"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/bright_partial9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/bright_partial9_recall_map.png",
+      "bytes": 96791,
+      "sha256": "a571ff5d9f2c9d51cb2c3f60a73039798d45811e646b525349a530d81cc55e10"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/clean_per_class.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/clean_per_class.csv",
+      "bytes": 414,
+      "sha256": "115d0d00caf2b51ffc2c50887640fdc051f612171c78c71f639f507e7df0cc19"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/condition_metrics.csv",
+      "bytes": 99442,
+      "sha256": "2def54426a1cea6254652962ec176c06c0de0aed5a2f621d988e2500b252ee17"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/condition_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/condition_summary.csv",
+      "bytes": 1813,
+      "sha256": "bbe8442a7a0010467de362db00e03dedc54db141c28161bd46b0f685c4591bc2"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/dark_cluster9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/dark_cluster9_recall_map.png",
+      "bytes": 99765,
+      "sha256": "6354b7d2742842bd19720d4dd82e3967a395478777d4323d4b495f6b927c3da0"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/dark_k1_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/dark_k1_recall_map.png",
+      "bytes": 89621,
+      "sha256": "f640caaadde3d701137a36df83252f33ab70beee8744a9219ea83d310ca8eed2"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/dark_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/dark_k25_recall_map.png",
+      "bytes": 99171,
+      "sha256": "bb7a89c6742bc8bdb25c6c8343b8830f43daa9682ad6d170f16ecc0520ea09fa"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/dark_k9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/dark_k9_recall_map.png",
+      "bytes": 97953,
+      "sha256": "d1f64e20a3b512032574bcc637f5e7d78fa66ddcbf4c5a356b246c77a87bab56"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/dark_partial9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/dark_partial9_recall_map.png",
+      "bytes": 94726,
+      "sha256": "0be10f574d0410288f95caee70cb987df70391eeca59fdcbd6d4fb1a4c8d8800"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/fault_example.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/fault_example.png",
+      "bytes": 252349,
+      "sha256": "55293aeb1362d8f3a3a7d822b7959cdef2af8ebcdb439ac1e4acace21e0485b5"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/grid_summary.csv",
+      "bytes": 43561,
+      "sha256": "7f4f758bf34a71716e552619f1cd264a537a7a42006e6af000b20043a4ea5470"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/occupancy.csv",
+      "bytes": 789,
+      "sha256": "a1704d7329d2d5c3faa9ac3f85cc86dd066e13b9445ced647c9b2f0df5478e38"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/occupancy_correlations.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/occupancy_correlations.json",
+      "bytes": 1147,
+      "sha256": "bb2cfd67afd418c6fa8265d309983fab914f3797ed2af033933ebca91caf573c"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/occupancy_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/occupancy_map.png",
+      "bytes": 72259,
+      "sha256": "052a0b326458939e72c525c27cecaa0da33697ba1f252ed7671695cd31248694"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/occupancy_vs_sensitivity.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/occupancy_vs_sensitivity.png",
+      "bytes": 255624,
+      "sha256": "3c6b4fd4c693232b2bef2e0a4dc50caa3b708a8a23fed50839bc18f7a68b3b09"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/stuck_k9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_frozen/analysis/stuck_k9_recall_map.png",
+      "bytes": 93146,
+      "sha256": "6167c41df1625f2be3a43007994976ace5b94adda853ae1bb7a6332c3fb6b6fa"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_singleworker_partial/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/gc10_s11_singleworker_partial/run_meta.json",
+      "bytes": 14437,
+      "sha256": "5d7c9470e66ffcff2d4b35d84323b9ebc10dc948e76f896906c875597b89482b"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/run_meta.json",
+      "bytes": 8316,
+      "sha256": "cff48c0d20abf483a635b44359ac335803f8f1ae7bc1efe5494309452476fd68"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/REPORT_KO.md",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/REPORT_KO.md",
+      "bytes": 4722,
+      "sha256": "674636507e9f59dacac40e592ba8ea50cf839c8dbb6a5b4013b6ab5c3dd52c13"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "53391318ea84faaabb0602a3947e2b2fab71f66be3fc3472421026fc9b3d7197"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/bright_cluster9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/bright_cluster9_recall_map.png",
+      "bytes": 99112,
+      "sha256": "3ef5ba0a3424215201bc113ef4ba3d50b709629611cb92c0bc47f067af1d3d5b"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/bright_k1_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/bright_k1_recall_map.png",
+      "bytes": 95189,
+      "sha256": "17f62c98f548635ee2d9120bacbd3a8e1734769e6310af67854346584b9168fe"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/bright_k25_recall_map.png",
+      "bytes": 101369,
+      "sha256": "e990598689cbd822a56975746162bfa02c738c17e36de45dd8b7b26ad3ca4ee2"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/bright_k9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/bright_k9_recall_map.png",
+      "bytes": 100755,
+      "sha256": "82b9d86771f58aebe2c456c9bf9b9d3a6d7b0eed8cd5bfa7373a471795055891"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/bright_partial9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/bright_partial9_recall_map.png",
+      "bytes": 96887,
+      "sha256": "58226d9410ac172a6ad056a10f180e0cf28e9a7cdf1fbf3b0e71ae6bb8991610"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/bright_sensitivity_maps.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/bright_sensitivity_maps.png",
+      "bytes": 290025,
+      "sha256": "da3f7bfb14bfb93be1e8cb71ebc4bb88f9cd28fcfafa0bb2e39bcb1a5a301a3b"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/condition_metrics.csv",
+      "bytes": 46479,
+      "sha256": "1704a0c925df8f0e1bf6d4049b57709bff933dcf2b31fe3b434a241dbad7fc1d"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/condition_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/condition_summary.csv",
+      "bytes": 1253,
+      "sha256": "926832feeb200454336ef83849b53ad1ff9c0b31573092e060d425ac80f1b2f8"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/grid_summary.csv",
+      "bytes": 22517,
+      "sha256": "8390f49e275d995dee4e4ce47e001a93b91e21b0d8a45dcb42e40f7a60a16d16"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/occupancy.csv",
+      "bytes": 766,
+      "sha256": "39f303f436a49246aedd3effa18d6bfccd35adb2366188f1f2f0bbee12c5476f"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/occupancy_map.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/occupancy_map.png",
+      "bytes": 45495,
+      "sha256": "a4b3be5ec7e1b8f2d3a98bad60b26e8546f50b9d4fb7839652553d5718e7a4ef"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/report_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright/analysis/report_meta.json",
+      "bytes": 279,
+      "sha256": "d1688c2d06b07f0654a95cb01f8a3da63d5d4502a500f8e2fa5d75531d71999d"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8/run_meta.json",
+      "bytes": 7448,
+      "sha256": "d2cf3afa9291c97e13814a516a3aaa576c1b6b428d1e43c38360fe5c0ba74ecb"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "7f1c78895383478e307cedad232589318f3f59bd1019fcb97f38f999906c7cd1"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8/analysis/bright_k25_recall_map.png",
+      "bytes": 232048,
+      "sha256": "dbe4bfbf8eeec7f9c98e4e3fd2f9d659db0eca38851599281a8add3fbe5204c4"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8/analysis/condition_metrics.csv",
+      "bytes": 37025,
+      "sha256": "0af351d83459714c23b79bd6d60f226115279c3aa9c1fdee2008522832912524"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8/analysis/grid_summary.csv",
+      "bytes": 17936,
+      "sha256": "94b44e72cb4d56ef03ee5724c1fe1ff9c9c6991b09de5586c0543d1125e16eae"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8_p10/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8_p10/run_meta.json",
+      "bytes": 7863,
+      "sha256": "64e726de48f31ac37f7fba5e8eb6a04895503d04ce9268844c371cd27408859c"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8_p10/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8_p10/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "412d02be924fe6bd233404ed21ac88bbe33c62a7bfce077083e9382fd3080e09"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8_p10/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8_p10/analysis/bright_k25_recall_map.png",
+      "bytes": 230340,
+      "sha256": "b5e52131b0dbf62ee1ca94d77f869e5b6c23d6c49a53efba5b8569d424588319"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8_p10/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8_p10/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8_p10/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8_p10/analysis/condition_metrics.csv",
+      "bytes": 122916,
+      "sha256": "44e166603bd6e230f0dddcb66c1c8343639209285acfcf825594b941f54e1dc1"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8_p10/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8_p10/analysis/grid_summary.csv",
+      "bytes": 17932,
+      "sha256": "6e0779c08a01ef8a790cc95d4b9e75135f8854575644fdee5491081819322151"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8_p10/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/neu_det_s11_bright25_g8_p10/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/run_meta.json",
+      "bytes": 10862,
+      "sha256": "5c8db33d2c3200a84294d1f6fa1548d2b96035e067db146a325139c6802a3adf"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/REPORT_KO.md",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/REPORT_KO.md",
+      "bytes": 5214,
+      "sha256": "30a4734b09c9b19acae85059e8d7444f2db839be289189dc04f029f346f24048"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "82d48cb4e14a8424d3da06b50410a1b26e71c324fc1638257231063d7842b83f"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/bright_cluster9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/bright_cluster9_recall_map.png",
+      "bytes": 101375,
+      "sha256": "7a07b2e131a34c954a69a9d1713dbdb79fc8154771a67a4ce26633241e228564"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/bright_k1_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/bright_k1_recall_map.png",
+      "bytes": 96399,
+      "sha256": "0b3bb52fb2427310e360f0536804f0b90c61b7c646b600b0015711d6394b2126"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/bright_k25_recall_map.png",
+      "bytes": 100591,
+      "sha256": "1b73de4c69bc66da4b5f7bed10cedcb6e879a4bda860137f45364c20eb4349ba"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/bright_k9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/bright_k9_recall_map.png",
+      "bytes": 100750,
+      "sha256": "05a99bfdf5d4826f8997e23373311a7838e79848439dee102bbc57f1bab53af9"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/bright_partial9_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/bright_partial9_recall_map.png",
+      "bytes": 100154,
+      "sha256": "782f3eef14301b2768da131b220a827c3a55688e447355193aede84db52e4c04"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/bright_sensitivity_maps.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/bright_sensitivity_maps.png",
+      "bytes": 291193,
+      "sha256": "4bdf5361d607bff8c57cb26d69d9d654d93fc151f52ad73ccee96809037c9201"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/clean_metrics.json",
+      "bytes": 341,
+      "sha256": "e58b278e514d7b343341e158337426e1b5bc5fbd1dfb428b448d47a2d739d392"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/condition_metrics.csv",
+      "bytes": 46288,
+      "sha256": "83188793c469e3f27a527a2e0ef6cd9045f10c3be7bb9987700cd24287882166"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/condition_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/condition_summary.csv",
+      "bytes": 1159,
+      "sha256": "ec67f3bf0425b17a35e9613114550d57fe40ee0abd6c3589c7dd73ce6636ca41"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/grid_summary.csv",
+      "bytes": 20836,
+      "sha256": "4571237bc943f0579a7dd75b06a3408d74a55fcbcc43408361d978fee9e7a22d"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/occupancy.csv",
+      "bytes": 792,
+      "sha256": "ff446958263489061a2be8e5c58dd540e34c02568de5123a6e5ad8f49d95d098"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/occupancy_map.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/occupancy_map.png",
+      "bytes": 47308,
+      "sha256": "f85c619823135f0a0e449505a0d0ac648689794bd230bdcbfd3f225b313eb364"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/report_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright/analysis/report_meta.json",
+      "bytes": 292,
+      "sha256": "5383f4bc0421134414d2ca648e4736e3b6cf9d87f7837c1756de62c609d00f15"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8/run_meta.json",
+      "bytes": 9992,
+      "sha256": "feeefd60eb338f365e58e525f77c549e6d4091cfaf435a4c0ba6add38649d1de"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "e50a160e05a08bfb38bcb2608394f1ef3dfa7ca822619e805a7d96b958b8313b"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8/analysis/bright_k25_recall_map.png",
+      "bytes": 218898,
+      "sha256": "87c56f19ab3de2726cf5c2f5384b04528d4b2fd75b0f1b15ac2815ee638f09b6"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8/analysis/clean_metrics.json",
+      "bytes": 341,
+      "sha256": "e58b278e514d7b343341e158337426e1b5bc5fbd1dfb428b448d47a2d739d392"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8/analysis/condition_metrics.csv",
+      "bytes": 37360,
+      "sha256": "fd062b515046a3cf90ab06b14cc9d5d398bfeca1573e3ebb162fbe32f9832775"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8/analysis/grid_summary.csv",
+      "bytes": 16727,
+      "sha256": "e3b8c86440f1ac72a3186cc8003140db56102a1b0cf158b8a366f86384c08df1"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "d063abd1f7ba177cee658743f8c777a2386f51b4353ad261b2394825a32a5de1"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8_p10/run_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8_p10/run_meta.json",
+      "bytes": 10407,
+      "sha256": "72e124fd1461c9790f28c8339169b3cd1e8f3b6ebc6c3239492a8ce6b5158e8f"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "7e8764ca9593f09acb3bda7303f51baca69a431d7d7abfeee7220c1364adf8ce"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/bright_k25_recall_map.png",
+      "bytes": 218859,
+      "sha256": "afbf27779ca46f0b6f8e37160fc6bcef7f4f71d30380867877e6738ce19808fa"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/clean_metrics.json",
+      "bytes": 341,
+      "sha256": "e58b278e514d7b343341e158337426e1b5bc5fbd1dfb428b448d47a2d739d392"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/condition_metrics.csv",
+      "bytes": 124203,
+      "sha256": "408bc0e1bc24eaa362159f86ee6c86aa8e662c0c1159e42add2581a2ac37a750"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/grid_summary.csv",
+      "bytes": 16933,
+      "sha256": "33bb77ce2e0cf28683bc458884fbd2576362b1a35524ab6ddeb8efdad769ade3"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "d063abd1f7ba177cee658743f8c777a2386f51b4353ad261b2394825a32a5de1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/run_meta.json",
+      "bytes": 12679,
+      "sha256": "4946539353ccb65fe8f38394a27e294a7ce0979b21f02756cf24e0db85594c73"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "420f5281ffa6ddcbbf845f1b68c9e9af31b67b2ef40af747a0dad283f61abba5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/bright_cluster25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/bright_cluster25_recall_map.png",
+      "bytes": 236525,
+      "sha256": "1a240241779d0b00d7d3c4e8cd3d47d9b0329b4d31aec4b40720cead78611571"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/condition_metrics.csv",
+      "bytes": 127208,
+      "sha256": "d19cf8a2997176b0ff1096d4706b887d068551d0ec66263d7e0d90390dbfd97f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/grid_summary.csv",
+      "bytes": 17824,
+      "sha256": "c3d1598860c476273209da5d5f36635b52e1120b3fe77e304c42a726e0e1b624"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k1/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k1/run_meta.json",
+      "bytes": 12673,
+      "sha256": "8f1bb82d535a6bef3795cc5c279efe8baba0767a2825f95206e15c986960aea5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "9dfdedba9ee8bbd7ba887c7cdb8fd6b33f8a98e0066cb02869d208110705fde2"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/bright_k1_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/bright_k1_recall_map.png",
+      "bytes": 209643,
+      "sha256": "f2432c1fa47e3d058c914d12e812558f409f45375c1b255fbbc7112cb1fb9c5c"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/condition_metrics.csv",
+      "bytes": 116146,
+      "sha256": "758a917170ba2935505e3ea3b9980e9e7511e2319f0a3793ef9cd6a8c9e0beb4"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/grid_summary.csv",
+      "bytes": 16113,
+      "sha256": "9e1588b53e4782c37e1b656375b3955b9a6973d0830c294bef532313d7cd32d5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k25/run_meta.json",
+      "bytes": 12675,
+      "sha256": "3cab5c246c9bda6f6a1d8dc79d479896b7c85defdd5fcae455c8ce770fc4a859"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "2c0f8e10841b82ec8d85dd399089e0939b8e0aee18042610c4f0b128241619c6"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 227405,
+      "sha256": "e086501afb17d6f29aa93c5bcc54c363433fbb3729503685be19cd263c34da49"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 121680,
+      "sha256": "c167680710e03c2d8f2fa4cb176dd1e0d68916b0d6668e1eaf4caf1bf924613d"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/grid_summary.csv",
+      "bytes": 17742,
+      "sha256": "a1b0145405f5906be7cd1c1f1b2de679d3f42cdaea1a43284c5cca1e21a631b1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k9/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k9/run_meta.json",
+      "bytes": 12673,
+      "sha256": "e6c6146603dd496601594e6569d86f2bc07db53e7a329d9d22ea9459245ae203"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "7f765b4c730c777767363494994eaf72c52b13f33a781eca82a67118795f8f9d"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/bright_k9_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/bright_k9_recall_map.png",
+      "bytes": 219912,
+      "sha256": "dc86b7f2e603d5588db99bdf08d1516f9e8f3e20169c4680b53e287d78642a6f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/condition_metrics.csv",
+      "bytes": 119854,
+      "sha256": "192c26bf4ed5c1c83764e5b1ca8a52fc490fa6e99f0fd23f460ed63e57de9ec5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/grid_summary.csv",
+      "bytes": 17189,
+      "sha256": "197f732c30c5c1595b289eb490cd31189ef6081222caaf2b5a489ad1195b27a5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/run_meta.json",
+      "bytes": 12687,
+      "sha256": "d915719d1c829b070c7114ab666a94c4a8a615ee1f135bc2063aab75d00cb8be"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "a018862337b67647927de7f60380e28517ee4f1667abe989c478492f2f91f2a6"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/bright_partial25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/bright_partial25_recall_map.png",
+      "bytes": 219194,
+      "sha256": "28fc398606efb6470311a4723fc32a39b6d0ec477452eb83f8c647030313619b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/condition_metrics.csv",
+      "bytes": 123993,
+      "sha256": "3d27befd9d080d8a655878e8e43de3cdf794d8666dcc69a72162097061afe7f9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/grid_summary.csv",
+      "bytes": 18024,
+      "sha256": "73195bcd57c9004d0e240d37a7e30644ddbcbad97d37c0a1b61b3c1d073a4baa"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__dark_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__dark_k25/run_meta.json",
+      "bytes": 12672,
+      "sha256": "5c2f75b4f71f7d4fab6d08fb48034fe4c0be2966412858988713f72b0472c098"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "5585eaeabaaa8ce9c238b03ce3f77c50a04cc33b9a2025ed421861091c13dd0e"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/condition_metrics.csv",
+      "bytes": 120510,
+      "sha256": "13c876942ee30610dde36b154935eb1622d79dd57826049f7564199835655b53"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/dark_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/dark_k25_recall_map.png",
+      "bytes": 222140,
+      "sha256": "a92766d4f4384200479086136b3c2187cd08df8ca707c883bd670adab79a0262"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/grid_summary.csv",
+      "bytes": 17006,
+      "sha256": "d15af002a480e2826c37069bb7d69a2001468bb32707e5578618be6b9d6c002b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/run_meta.json",
+      "bytes": 12676,
+      "sha256": "0412c58d1f489705a303a14420c0a6721f548db2708462b82627ba20abf06f12"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "9002de689262168fcd46c4679cd73c7a118ecda0fe9803ec5e3c5b7a569afc7f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "9ac7ae6155a4df44c03c506fee5454bf203d3d00891376c71c23f9c166381df9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/condition_metrics.csv",
+      "bytes": 117722,
+      "sha256": "3b38cab1ec81f80638306127b2e261989e925334d85c4cd9c0d2953cfdecd705"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/grid_summary.csv",
+      "bytes": 17005,
+      "sha256": "2d47ecf6dd47d11f2f02fb4138251a70a6c977e33fde5a6579d2cce5cace6fb0"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/stuck_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/stuck_k25_recall_map.png",
+      "bytes": 206090,
+      "sha256": "e35c84f214b1d5e2e2df6e5fc45b26867dee5be9f6b70790d14714c2528add1c"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s22__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s22__bright_k25/run_meta.json",
+      "bytes": 12691,
+      "sha256": "b35dacbf1e3d132947b369ce4d4671d561a9af62aa0f8c790a33ed6c837c7c73"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "861769254bbfb78bd9cb49e7b2ee807d879ad155fc0bef6fec0fbcb767df3169"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 218682,
+      "sha256": "01c6eee149fa8a60650fad20155d2ab3cacb8ffc8bfc2375fcbff4d8ce750911"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/clean_metrics.json",
+      "bytes": 342,
+      "sha256": "626dc3f36242c89a7433f6393a0d7d2f27c3ea0040bc55c1f4a310f8ed9be0d3"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 121301,
+      "sha256": "f545e44d7a2971c9404ba457a04400140be9ed658b474d87cf46a63c213d9f7c"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/grid_summary.csv",
+      "bytes": 17954,
+      "sha256": "b0ee76159097325e0388e702a26eaf99dfaa6ca7c9952f87b90669e6bee96347"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s33__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s33__bright_k25/run_meta.json",
+      "bytes": 12691,
+      "sha256": "2b5da7f15982b31161ee3b05a93bed3a1f7a11c397450981f33a0513bbf3ff82"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "cf4b81f45a2df9286fd9e8b64633b4c6350dc4c9ebb6f96eafa56e7ea93aa4e2"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 222783,
+      "sha256": "0c2977de9a16c40f1b0b6b173b488fb1baeede0bbfbd9d6dc915ffb1b4d55e20"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "7d29e30e64d075a81bddedb76f5a8e8cc18459cfe25a0644918419e080ba7936"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 121939,
+      "sha256": "7b9ee83abfbdd8fad3cc8ce2ca6499045d68b6f6f8cf60992b9ae89447ebbfcd"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/grid_summary.csv",
+      "bytes": 18081,
+      "sha256": "c5932ec353bef3ffe9d559c9eb3b63a2e7072a6a4c9a9eabe510d1150406a9e7"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/occupancy.csv",
+      "bytes": 3076,
+      "sha256": "b7bc00215a8d8ea0735798646242ad9b6f488450a302c1980c0dda8ff48b4446"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/run_meta.json",
+      "bytes": 7815,
+      "sha256": "1b61b8bf39ae42ed33d5c7a2d371659721c938245f89afd22dd2c1686d908f4e"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "1311908d0db63374cd0625ca1188f08331a74fee997e87b63f37cb60555be9b8"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/bright_cluster25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/bright_cluster25_recall_map.png",
+      "bytes": 232536,
+      "sha256": "9d40aa083e59b302d129d3bac513b880b2319ba56ce4405b81c6fedc0074a13b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/condition_metrics.csv",
+      "bytes": 127259,
+      "sha256": "ea65dae98e7664a805c8b83dacda2bdbc8b769cf09ee9eeaff169fc2f68faa08"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/grid_summary.csv",
+      "bytes": 18355,
+      "sha256": "9df0cdaf2549ac42a7f98ea5c665a8439144496d8c24d2d04113b044c42242c9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k1/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k1/run_meta.json",
+      "bytes": 7809,
+      "sha256": "364a2e95689afc811008937860f83a26fab5f308d3f8bfdae52f254c0676b452"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "cd5d04c212ed2bf573f78ce8a19d5776284a2516d51b5859fe3856fa4bb394c8"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/bright_k1_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/bright_k1_recall_map.png",
+      "bytes": 220506,
+      "sha256": "a6930ad0aabe3636fd35b82bb3ed12c4dc90a9c2e1e833ad7a642cf7f72ae348"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/condition_metrics.csv",
+      "bytes": 121246,
+      "sha256": "11ed0b14753c19709a1fb7751c99fe8a513495f71ca4d404f90bf50063615a7d"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/grid_summary.csv",
+      "bytes": 18248,
+      "sha256": "53e84af4afab553ee989f31c7771e7ddb85879e9c08fe0ec038abd2f092c3e33"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k25/run_meta.json",
+      "bytes": 7811,
+      "sha256": "8ed7cd6f2d06d6914f33cd9d34eea86c0cb96139e6fc40752e1ae0b3c0c00abe"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "e4330f6c182d45ed3147e4aa77c80994af54c73049c9afdbcb93ca06421c1f07"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 230340,
+      "sha256": "b5e52131b0dbf62ee1ca94d77f869e5b6c23d6c49a53efba5b8569d424588319"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 122916,
+      "sha256": "44e166603bd6e230f0dddcb66c1c8343639209285acfcf825594b941f54e1dc1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/grid_summary.csv",
+      "bytes": 17932,
+      "sha256": "6e0779c08a01ef8a790cc95d4b9e75135f8854575644fdee5491081819322151"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k9/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k9/run_meta.json",
+      "bytes": 7809,
+      "sha256": "6120497a9173ee0aa9cd7930b5a569fc7e8cc98b11fb7a047a21e7ac6cf24efe"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "a91c6aac7ccbd2bb97fbfb12beb8f72a5f0c2e74103455c3fdac810ae54df967"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/bright_k9_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/bright_k9_recall_map.png",
+      "bytes": 243421,
+      "sha256": "81d1d93ca082b7cd5e6b9a01f09c32ed9fbdde200adf658de8511e9ca0c4a868"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/condition_metrics.csv",
+      "bytes": 122158,
+      "sha256": "356a41cd3fa1dd7fe65dde84a1e323db58404c7b2e073b530500d7bb44824dd0"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/grid_summary.csv",
+      "bytes": 17989,
+      "sha256": "60e7e9eb20b28eed83a7292abd2f3eaf381f8ebed21d6da40cdf57149448ad5f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_partial25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_partial25/run_meta.json",
+      "bytes": 7823,
+      "sha256": "e06087ceb7ddee289fcd3362926ba6f2411c3ccfacee55bff2839a03108b05c6"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "2395b870651b901f5ac546f9e234a31436c34e323e4c870625945c106ddf6e88"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/bright_partial25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/bright_partial25_recall_map.png",
+      "bytes": 243565,
+      "sha256": "eef7e4b0c363eb2f280134d821c1498ed704ffca51c1156fecc8c1cf86d3b7c7"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/condition_metrics.csv",
+      "bytes": 126672,
+      "sha256": "07607f39d884b2a3fe39f0c040265fd18fe6719eb80e9c8cb443ef2bc83fdb72"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/grid_summary.csv",
+      "bytes": 18505,
+      "sha256": "a787fd4dbe1ca5dffb0bc29d5117fac305ab11c169d5a79a0c06e1d0b2e22d80"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__dark_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__dark_k25/run_meta.json",
+      "bytes": 7808,
+      "sha256": "65078147d72f6a548195bb6b61ae5f0954db8263a6607d2f2a78af407b047658"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "dd906d343bbbebfbb41e0285fc71518d4b47461e7a14ca4aefdd3329b9c268aa"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/condition_metrics.csv",
+      "bytes": 122263,
+      "sha256": "8920c9f7cee3e19b815069ea4a9763d30b243a7481a036b882820c2af9fbdc88"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/dark_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/dark_k25_recall_map.png",
+      "bytes": 221573,
+      "sha256": "9f098a8611d6df72b0587101efabeab96a06586280013c1ea19377668c48a080"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/grid_summary.csv",
+      "bytes": 17305,
+      "sha256": "43efbd3be73fc91148665ec9c3c3eb0dec24a0f5a1ce134333630bd4e73c748c"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__stuck_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__stuck_k25/run_meta.json",
+      "bytes": 7812,
+      "sha256": "685d31326c3c3a79ff13ae4b0ddb54b962bc526a82eaf79e507af3d2f54b7286"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "19484911bb8a44a94089fc2fa094d2319877f731f419a5d467c4aeace0315459"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/clean_metrics.json",
+      "bytes": 337,
+      "sha256": "bfabf8bbd0bb882ee19c74499dc099dfbe643ba62c5aa2003ed9ab65ae362d5b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/condition_metrics.csv",
+      "bytes": 122052,
+      "sha256": "2c88af2c6e633e2793cb9858840128d26fdce95e9531f8ba80dadf180a083184"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/grid_summary.csv",
+      "bytes": 18106,
+      "sha256": "598bcdfdb4e0f9796a011c1598243c946e1b2d927e7a23d4ba93b9265376c50e"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/stuck_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/stuck_k25_recall_map.png",
+      "bytes": 233212,
+      "sha256": "853f93ccd1b15eb52b8f7654c8419be1c0c9da84d8f368c0c99f19031a1005ff"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s22__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s22__bright_k25/run_meta.json",
+      "bytes": 7823,
+      "sha256": "2cc5e0ddb029a86997bbed424b33f6a9031ff8734f0d7d6bbc450beec918abe3"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "797901eeb08fed48288fe86acaea72dc3994570b30128c393627d1813c67bb5f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 223494,
+      "sha256": "62cbd36df10839d07ba94ec38d601c2a44a51bbbcf015d71f064d26bc17afc0b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "a908eb48b09fdce684fbb7cef301e0995b0ff12d3fc4ede821ecadcceffa4f64"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 124748,
+      "sha256": "74d16b0b7fc1e5ab67b9e61a9b72cbdf1ba28c43922a1c130f154b93535aeb83"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/grid_summary.csv",
+      "bytes": 17960,
+      "sha256": "6d1059297445cb4b38d551fe7b41a2b0c577564c38291b30ddec991eca9e37d5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s33__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s33__bright_k25/run_meta.json",
+      "bytes": 7823,
+      "sha256": "857f15dba57d70bf504536118b77c05bc67f1ab08253529e66534fbeeab26d2b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "3f62ea6bf9107eb8e604669d7ed166bf26c1773c79afdf9bdb7c937382d80cea"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 230054,
+      "sha256": "8cb7b401e81de9096dd03586232428b6dafdc66f6700903d074e5bc9f7386b90"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "840c1f83e7d0e531a7a644c07c439c64e6ec4fc4175b792c78d12d0573c8f056"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 123005,
+      "sha256": "27d28c78a1d602a5af066b4c31d4f212ba059e3c4e3e6c2a2e47238be731ee95"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/grid_summary.csv",
+      "bytes": 17996,
+      "sha256": "c6b474d18068000ff8ffc2ece1e116038dceb29afc64ff7d54b19d60b9d21064"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/occupancy.csv",
+      "bytes": 2975,
+      "sha256": "aabe94f3857c4f439e69c151c8572c3499fecc2e58d22c0deb0b3bc56b0d9aa5"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/run_meta.json",
+      "bytes": 13437,
+      "sha256": "ab232ba214f5ce5c1a3b958ed318a7f4f1e8d1d036403736d0aa5289fce8268c"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "ab6acdf9761eb338513da5dfd5eba303a74cfc74389b268ec8e57681d2f430c7"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/bright_cluster25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/bright_cluster25_recall_map.png",
+      "bytes": 218841,
+      "sha256": "e601809de6778b453450f01749039d67e85960e8ad1fed98b580c73d5b72c590"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "14408376795505a8eabb5e6357abeb912e19205494c92860faf05841bd25829f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/condition_metrics.csv",
+      "bytes": 128479,
+      "sha256": "b3206ea517033037f88205835178f767a6faabb3ae43d12a3fe7a013f979ee75"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/grid_summary.csv",
+      "bytes": 17516,
+      "sha256": "8d2733c5f4f7aa953f7c13ebc83e43bb23fda77bdf1c755ce8f1ea6bcbd6398a"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/run_meta.json",
+      "bytes": 13431,
+      "sha256": "3e8723f1bf837613b1a4448e0b47989bf5b204c16cd19ab0588c850d0caf7ed7"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "af59ada0f8ee8731a169398370440be42a24dec2d39021bba19babafaf4852ad"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/bright_k1_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/bright_k1_recall_map.png",
+      "bytes": 223370,
+      "sha256": "0f9189d8e7f35e1ac06fcef7d41f29654b58c6bd2c7b0c7a8b50e9121767cea8"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "14408376795505a8eabb5e6357abeb912e19205494c92860faf05841bd25829f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/condition_metrics.csv",
+      "bytes": 120626,
+      "sha256": "142f68ddb7193941ec3b85024245902f77a9e8e29b6509ec577c3ce097a56692"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/grid_summary.csv",
+      "bytes": 17297,
+      "sha256": "898199533de4ce80a8fedd1ef21c799d793fac418376da8e1807dd59c8e58681"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/run_meta.json",
+      "bytes": 13433,
+      "sha256": "50e1bffacf1267208205da9854a8b58d457b918b547d85c846e8bae31a051aa2"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "6ffa0a651e975e31e2c65e9fd3d7a01a937b5b70c5c536d44b699edf0e8368bc"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 216800,
+      "sha256": "3b5fab23ad358899ed60f50df5e9449af1c65fa699c99c2e5b0bbc95fe13da8f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "14408376795505a8eabb5e6357abeb912e19205494c92860faf05841bd25829f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 124666,
+      "sha256": "27e40a4780f9429a4c6551fec210103cd44df207890cd0422bdb016e14635a75"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/grid_summary.csv",
+      "bytes": 17133,
+      "sha256": "4227dd01fc847091c8d311629e031d5526e37b0813e332c1a390f8c6ef7c21aa"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/run_meta.json",
+      "bytes": 13431,
+      "sha256": "3ad1f24719f8926abc65543e9b127ba9f539d19a71230b5f22763d28b6aaf77e"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "4cc801932d3b218850b6d5c342a57595fd5bae2456e7e54dea545bdca04fc067"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/bright_k9_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/bright_k9_recall_map.png",
+      "bytes": 227451,
+      "sha256": "4d3ff9a6d72fa25ffff4a1749a064a353dda729f5d7e53f903dbb91a6e2a7cc4"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "14408376795505a8eabb5e6357abeb912e19205494c92860faf05841bd25829f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/condition_metrics.csv",
+      "bytes": 123747,
+      "sha256": "312471bd0e8e00ad3f76da00bc6fd3e4aa395fae8a2bcb3283adfd4ecb7e0bdf"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/grid_summary.csv",
+      "bytes": 17154,
+      "sha256": "920f43752e455f59ecc0d9d52aff923742e7d1aaa4609db01f7f402e48852dbd"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/run_meta.json",
+      "bytes": 13445,
+      "sha256": "40258f222ee793143252fac82b90b3580f66c0bf6f683216c998a24bdcf7e421"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "cfb331c240a984c08b98cfad95533c249f6c67c6515439b54d9fd61fee298146"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/bright_partial25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/bright_partial25_recall_map.png",
+      "bytes": 221825,
+      "sha256": "859484c6f3d3b0f98b74479a72f76118b5a4fa8e99bffe446cdd6f655f1fcf06"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "14408376795505a8eabb5e6357abeb912e19205494c92860faf05841bd25829f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/condition_metrics.csv",
+      "bytes": 128241,
+      "sha256": "2c0c339da74633a3fa9af2ad1df44ff3aa22c746e65fc8924db14b6aa2229773"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/grid_summary.csv",
+      "bytes": 17649,
+      "sha256": "42faf285fe6675c510d6001b33eb8830a039d1d2729fd7935121bd8773d58f6d"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/run_meta.json",
+      "bytes": 13430,
+      "sha256": "a6532479ad518b44c7b4dc7f0af64fe826b439029a3f3ac43d56ff39c2edf1bb"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "508932950ce6ad613aad2d9a9dde12ac1c685d78072bb345da653f415988cc35"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "14408376795505a8eabb5e6357abeb912e19205494c92860faf05841bd25829f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/condition_metrics.csv",
+      "bytes": 123264,
+      "sha256": "e980baf75ffe1ebde87814085812d7b6e27203c2321c10dd0c8b1e1567a34f11"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/dark_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/dark_k25_recall_map.png",
+      "bytes": 215324,
+      "sha256": "582cab6b26c6ac57f2437ed04de930b8653723a444158c93fe87a6bc83c4a2be"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/grid_summary.csv",
+      "bytes": 17323,
+      "sha256": "2e1b494ca94546913a3e56fde63ccb3ac68ab54d4761466e617f76675dfdeaee"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/run_meta.json",
+      "bytes": 13434,
+      "sha256": "657e02cb9e1da0f86a566e024f1ac928a9f8e11c8b2bd4516e40104195539fdf"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "0da458df2e2d36cbacedb5c290ec9a538d8a74a74555c8e74d636506f7761ed9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/clean_metrics.json",
+      "bytes": 343,
+      "sha256": "14408376795505a8eabb5e6357abeb912e19205494c92860faf05841bd25829f"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/condition_metrics.csv",
+      "bytes": 123549,
+      "sha256": "b67adf47e9e801fb062190554f40fe5b3b069377e2284631657ea4423f40db37"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/grid_summary.csv",
+      "bytes": 17236,
+      "sha256": "c247e705e33a447562fec6f8f37fa0dd64796717d08b63b79d67db5bad57c430"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/stuck_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/stuck_k25_recall_map.png",
+      "bytes": 226387,
+      "sha256": "509ba85a5cae3b407f89743ab1f8d89bba534c8abc51a505dad41698b387e4f8"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/run_meta.json",
+      "bytes": 13433,
+      "sha256": "cf5865e4322650ec7e649586b42a54c5ab00b6a7aec4f8b77710bb27db1d38b9"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "0c3e80b2f47bccc2235052cf8747808a7591b7cc8d29ca8b57ddff363a06fcba"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 216855,
+      "sha256": "6c93d9a5971f1163898fd72cd9928fa9ede7074293bc5d86dbec61eaf21d91b4"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "3d7e51fe3ac88f2402e592f8a788f658c1e394889ef58dfc653e90ec3899aa6e"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 124913,
+      "sha256": "a0345fbe041b2572952e0d11b2c6b0a6bf7e2024bb8b834a4f9e61edbd443fa8"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/grid_summary.csv",
+      "bytes": 17100,
+      "sha256": "766994af8adfe441977bfdd44ace755b0ec12410916d0c4c872eae5a15a5740c"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/run_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/run_meta.json",
+      "bytes": 13433,
+      "sha256": "eb58a50a22038c30cac307d0ac9a8d9c39ce7d1ad467f499528ee7a27a62487c"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/analysis_meta.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/analysis_meta.json",
+      "bytes": 742,
+      "sha256": "adbcd6bb80f80038d8e195378a5050e51207b942af27a06acccb0ad022c961f1"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/bright_k25_recall_map.png",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/bright_k25_recall_map.png",
+      "bytes": 217381,
+      "sha256": "19acb57002d71ff2ec0e0b60234f5130a07e14f99ba3841d0e90ad923b5df60b"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/clean_metrics.json",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/clean_metrics.json",
+      "bytes": 344,
+      "sha256": "4789bdb69c573e4fdd50c977463662d04e391f70a51e35fc56cee12f72ce9f69"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/condition_metrics.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/condition_metrics.csv",
+      "bytes": 124853,
+      "sha256": "3d51ce371c38a50abc79ee2d054e3e8b8aefb9b3717349b88a718cd0ca5706aa"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/grid_summary.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/grid_summary.csv",
+      "bytes": 17106,
+      "sha256": "328e00ed6bf41f0d97271adf6c99a2ffc9a5cb068723a7b40410f21d433944bb"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/occupancy.csv",
+      "snapshot": "reports/run_summaries/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/occupancy.csv",
+      "bytes": 3071,
+      "sha256": "f8c7aeed503156c31a6f1001e0a18f64bbfa028b9be481aeda1fd1255c5e18e1"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/BoxF1_curve.png",
+      "bytes": 332417,
+      "sha256": "6f5d0bf586a8f24e5736363f6d1b177359d209c46164e90a57cf8604dfc3e188"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/BoxPR_curve.png",
+      "bytes": 236894,
+      "sha256": "8878ccb2215902da31eede5f5542cb2a1d6429dcbe326f33c277bcef772a0c1e"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/BoxP_curve.png",
+      "bytes": 330289,
+      "sha256": "8ea9d0a2d921091a636a887ca1d47db1df4d4fe7468f27b8aa51a2e84e6748c8"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/BoxR_curve.png",
+      "bytes": 278652,
+      "sha256": "97a8676f9bbd87a1ebce6e7f53db9ca8de42edf9b6b93f4aac0df26223048a3c"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/args.yaml",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/args.yaml",
+      "bytes": 1635,
+      "sha256": "d8f73855cf252bb9e8d721853bef31cd7d385287e673e8405ddc49912dc67912"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/confusion_matrix.png",
+      "bytes": 224952,
+      "sha256": "be3a04a468351a7b7b0b4572bd84959bfb2e99ced4bda34ce6ce494c0a7d68af"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/confusion_matrix_normalized.png",
+      "bytes": 262887,
+      "sha256": "b658b4a2bffdff385272b6a6b8c9842b8920f8d21c1545b2ea995c27520873ab"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/results.csv",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/results.csv",
+      "bytes": 3892,
+      "sha256": "d1cfd67218531cdb843e793816009f52a94231059c65ba3c5df8fc414d5c92ac"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/results.png",
+      "snapshot": "reports/training_summaries/gc10_yolov8n_s11/results.png",
+      "bytes": 360448,
+      "sha256": "41ef4f1a55893a345304cb6c9083ac1eeecbe551b578e6a0a02dac6de3e750e9"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/BoxF1_curve.png",
+      "bytes": 259078,
+      "sha256": "ce5fe546b8745740f120d814966bd751151b06d4b217932173de0d736841414b"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/BoxPR_curve.png",
+      "bytes": 223671,
+      "sha256": "51a424e141b7e96c90536cffa0bec066103476fa437b1826c11ffed09bc5b122"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/BoxP_curve.png",
+      "bytes": 252085,
+      "sha256": "7c434c8a4ddc81db22f68d648270907b7c5b87106c3162e5bfe6e20455f1967e"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/BoxR_curve.png",
+      "bytes": 227943,
+      "sha256": "f62ed74f227e27caba8b6a7992ccbc448393556c3ff8a2438723b0a72bec4ad4"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/args.yaml",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/args.yaml",
+      "bytes": 1640,
+      "sha256": "b1427aff094c0bfd616115567a49c0e1aadc921807e92c22d75b597dce05d221"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/confusion_matrix.png",
+      "bytes": 181105,
+      "sha256": "b59ba52b7b9103f9be3b602bd7a61410e138913662595c9477dd0358a73433b8"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/confusion_matrix_normalized.png",
+      "bytes": 204977,
+      "sha256": "7229e95e45cda5360be5f3f753543a8adfe45e156b1ef811f5d7a8c249b0c9ae"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/results.csv",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/results.csv",
+      "bytes": 6536,
+      "sha256": "9ae16a040a7c1089675dc269d481ec76e4b7d97366978992f3614243c3524c3f"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/results.png",
+      "snapshot": "reports/training_summaries/neu_det_yolov8n_s11/results.png",
+      "bytes": 322535,
+      "sha256": "00896bd5a467b6cbbdf596ee4a14e5a4378d35f74065438c3e8e51eb28412f20"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/BoxF1_curve.png",
+      "bytes": 324881,
+      "sha256": "b149eb45b5fb7940fdaa0e491871bddef4165537b5ffb17e0e63f9e197f69874"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/BoxPR_curve.png",
+      "bytes": 233780,
+      "sha256": "10567b156d9aac9c17e8b09d0ed786a7631e9a89cb2b2762decaf3380f2a1a95"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/BoxP_curve.png",
+      "bytes": 296766,
+      "sha256": "172fd114baa5ac8cae6ac0661b80e33c3376d4e9158b7e47e662394207e3e631"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/BoxR_curve.png",
+      "bytes": 267462,
+      "sha256": "5037c679aa9d93ccec1c392e59337259f25911469291cd8db9ca154585917f0a"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/args.yaml",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/args.yaml",
+      "bytes": 1640,
+      "sha256": "c33476bb8427690b6f4256bcc8dce4cbbf28c3aa431e6619f342545ae78b2d08"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/confusion_matrix.png",
+      "bytes": 206894,
+      "sha256": "854262ae4a43dc5d14465c145e2a7eec2aadec483a8bb31c64cc99c36fe4ccd6"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/confusion_matrix_normalized.png",
+      "bytes": 262563,
+      "sha256": "f71944a1b959f20caec3babf8fcb79e887f438a0b1307009a01c4ef36b150f83"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/results.csv",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/results.csv",
+      "bytes": 5211,
+      "sha256": "5071ee3659548690a7c9858e2b1ef7f59d50a02e7bc6349b77e39387015c202b"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/results.png",
+      "snapshot": "reports/training_summaries/pcb_ind_yolov8n_s11/results.png",
+      "bytes": 339539,
+      "sha256": "8e4f3265c587f57ed5c92ca9bdfa6cebbfd8d9ce05d494a8001331690ef9a96b"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/BoxF1_curve.png",
+      "bytes": 333705,
+      "sha256": "7d91a808c9b5f1219116e5d8fa904f6868d8a9b3838fe5666cfbf23146f16b3c"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/BoxPR_curve.png",
+      "bytes": 250363,
+      "sha256": "c20c3beae84ba92eae7e7cf63e8e0f58b274b78a7fab43bda666198eca13521e"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/BoxP_curve.png",
+      "bytes": 343114,
+      "sha256": "5f819940c0afeb7a17b9f505c32b071061ba8f9edb5a3d6eea816abfdeb46bcd"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/BoxR_curve.png",
+      "bytes": 281794,
+      "sha256": "af4c58c86fdd0b4f69cfc21a37f060959bb0ed14d2791fd468bcee25a8d37523"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/args.yaml",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/args.yaml",
+      "bytes": 1700,
+      "sha256": "e25f2d3d080baf00bdb90106220965eb2302e2b73eeb5ea440842953a32699ce"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/confusion_matrix.png",
+      "bytes": 227444,
+      "sha256": "a470b41f2a1693f5a2b6382358e4617fccae386f48b2f3013c52c4b4d2bac50f"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/confusion_matrix_normalized.png",
+      "bytes": 266537,
+      "sha256": "6cad9887d29b7960fc144a765bffe827c18be5bed0f6310bde2f8991c9de1e97"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/results.csv",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/results.csv",
+      "bytes": 4859,
+      "sha256": "a65a474b9606f659d7112fd896f25404688aa0c87ebbb33bdaca2cb8b03704d0"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/results.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s22/results.png",
+      "bytes": 361515,
+      "sha256": "9ccec70a320f96dacfc8591b3d9511f37ba6b8b966f03449b8636d2659706cdf"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/BoxF1_curve.png",
+      "bytes": 306749,
+      "sha256": "1adce4db44f7d37535c86caea56d27a02be4eec5225ec8d5eeadf629d7d06a57"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/BoxPR_curve.png",
+      "bytes": 269501,
+      "sha256": "536921c685d03366c3778d2d6564145ea3b5fe70ca12ce31302b8c1b143466c6"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/BoxP_curve.png",
+      "bytes": 374132,
+      "sha256": "d5ad10aafd0a6c7465f90f112dde4d842fd19e25ceef4ad17a1c59632268bb6d"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/BoxR_curve.png",
+      "bytes": 240430,
+      "sha256": "68c66863df2e4468ea0fd9a1a90a78ca473746f9f70bcfb69ffbe311b1f274a4"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/args.yaml",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/args.yaml",
+      "bytes": 1700,
+      "sha256": "c5b01a958eeb96870b473a878f6f0d380f01d0170b70994363b253994ff1ce94"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/confusion_matrix.png",
+      "bytes": 227308,
+      "sha256": "73c821a8c3cf9a6d9386cd84c1056579e035adae58e9e48152b137c99f6222c6"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/confusion_matrix_normalized.png",
+      "bytes": 263488,
+      "sha256": "1a2ab57a1492b932697002227908fd439d7096887d82d910b40695958dc3aa21"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/results.csv",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/results.csv",
+      "bytes": 7477,
+      "sha256": "56b157b382c750d0a89f16ba73c8b23171bdd0d72ca8046e59c6b9070faa05cb"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/results.png",
+      "snapshot": "reports/training_summaries/validation_20261111_gc10_det_s33/results.png",
+      "bytes": 397274,
+      "sha256": "82b65db62be846ab8576870b0e0820e365cb699cb40055a110a8012bcf763140"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/BoxF1_curve.png",
+      "bytes": 240656,
+      "sha256": "d92e1d04593c808e8c23818ecdf737867466d8a93d3bb6cfb49a41faf4dfd5f1"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/BoxPR_curve.png",
+      "bytes": 222381,
+      "sha256": "337bc5612388d4e53a80ae06e00d1bbbe310a901ebb10c1d706dcb6bec9bd9fb"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/BoxP_curve.png",
+      "bytes": 255675,
+      "sha256": "d962af831284adad1ceab681a815f827d6deba6984cd0ea90583f42198e1780e"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/BoxR_curve.png",
+      "bytes": 212902,
+      "sha256": "ca0fda779b9f43079b8f452e2145da89a984b41f53f2c84f8c348a7de4f3ba2e"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/args.yaml",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/args.yaml",
+      "bytes": 1697,
+      "sha256": "774d1d7c0350d19ae135ddc3853885a700532817cf50d4328f34fc3262efc1a2"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/confusion_matrix.png",
+      "bytes": 176193,
+      "sha256": "02e0978a09e7ee7bc12973abd55b9eb8d30e5d9d29005f4e6b39bc8f733decab"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/confusion_matrix_normalized.png",
+      "bytes": 201434,
+      "sha256": "4c1afa365d5fc15cede8ed26e0d3e33cd9119ced6b86e1b47caee7a945702198"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/results.csv",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/results.csv",
+      "bytes": 9283,
+      "sha256": "e5e7efe409ba9368996c7388e152fb957458fe7f921b5bda455330ad1e977c55"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/results.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s22/results.png",
+      "bytes": 312236,
+      "sha256": "4eae84163aff11eca62e078db0f4445e3ff45c6905b5f3fbba06ddfe2c9b4f0d"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/BoxF1_curve.png",
+      "bytes": 229871,
+      "sha256": "666011d3be3f91ace019c6cfe291d7fd476e01092ebd3b378dae3ad5aa1efc0d"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/BoxPR_curve.png",
+      "bytes": 225366,
+      "sha256": "cc482c04c6df9238b6e65dc5a7afe93000296a43b38dd5cc89bb4072374bbbfd"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/BoxP_curve.png",
+      "bytes": 243013,
+      "sha256": "3777a62ad2e662d762d0075a94b1f299c7d91e2dde18056ede2aa9ba35a0f6f9"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/BoxR_curve.png",
+      "bytes": 209865,
+      "sha256": "945bfab3129142115a8ac54201b6e53effb7110801c901778ec9d979e3853125"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/args.yaml",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/args.yaml",
+      "bytes": 1697,
+      "sha256": "734ed174f7b65b4512880e3f8b8a52a9cc05df4b2689ebc72d2a0f79463c22b0"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/confusion_matrix.png",
+      "bytes": 175546,
+      "sha256": "0f2c5387b3cea8c1dd5465b4e5bbe97d90a1973cf01f67f7a3373b1a41701d6d"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/confusion_matrix_normalized.png",
+      "bytes": 197702,
+      "sha256": "151fba307fc9657e616ee2fc12db93f47c7fb3f1ba8308d75b241d8efc3f3037"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/results.csv",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/results.csv",
+      "bytes": 12095,
+      "sha256": "cd701354dc3fb4d886aace4519bc3c26d3b5b19e82afa56bb23433b04f6968a8"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/results.png",
+      "snapshot": "reports/training_summaries/validation_20261111_neu_det_s33/results.png",
+      "bytes": 328652,
+      "sha256": "39dd2d31ed5522e91df9ffec50c23c64360c9294870b867e639716df117f18ef"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/BoxF1_curve.png",
+      "bytes": 269391,
+      "sha256": "52c3a81adc6198e72503c8da563b834584e26a47ca58aa790df6854ee92c944a"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/BoxPR_curve.png",
+      "bytes": 251486,
+      "sha256": "b42055b1f09ad389b7dd73ef431e6891b753e6eca9b49635f82a963ad45ffc88"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/BoxP_curve.png",
+      "bytes": 256417,
+      "sha256": "58cc34c6eee6c76d9fdd940c0c6807572a5454dfcd4677ed0d4cf37d15e164ff"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/BoxR_curve.png",
+      "bytes": 235803,
+      "sha256": "71e58dafeeffbcd867d0637faf54ca2b504c763b94a4f7482620ed91ac553b4e"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/args.yaml",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/args.yaml",
+      "bytes": 1715,
+      "sha256": "2ffeecd71fb689104734ab5ba951ef13e7c31c53aa4dd78ffc0f4c3392b71d2d"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/confusion_matrix.png",
+      "bytes": 214197,
+      "sha256": "c560493e6191b88fcd4bc867f549bdf8678f88e3e8c2fc8494b4a5e29e31996c"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/confusion_matrix_normalized.png",
+      "bytes": 264530,
+      "sha256": "d9f148ba206d99f4482d2905af456aa707244f05b82af3b89af7ea38d91c5e89"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/results.csv",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/results.csv",
+      "bytes": 11423,
+      "sha256": "5a3bd5f1c9b1a3d62cc475570b60fe48be865cd92bd35143bddd589201ad0695"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/results.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s11/results.png",
+      "bytes": 325871,
+      "sha256": "fc81ddc780e105828687a6bb1caf46aed59baf99dba99f763c8e3aae64097f66"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/BoxF1_curve.png",
+      "bytes": 288582,
+      "sha256": "7555d844e93636054cb40a0e20d569c824635d7036e05c701be31da75ebd5b7e"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/BoxPR_curve.png",
+      "bytes": 242381,
+      "sha256": "5401185f2279695e6bb80aa83deecbd6b5e239468cb5855bb43cb48767ede29c"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/BoxP_curve.png",
+      "bytes": 289546,
+      "sha256": "6566078835698625df38d51ae9acf2068fbe4986b0e70d7b0ee047295756a64f"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/BoxR_curve.png",
+      "bytes": 244562,
+      "sha256": "86dc2a881bdf22843e84ec02045e1167868fbe76f3e3f418938d482835c6715a"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/args.yaml",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/args.yaml",
+      "bytes": 1715,
+      "sha256": "2d1a103bca2d46802fe6792b741a42d3b6e8a9f1cb5318a1521c5ee3ea8bd7d4"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/confusion_matrix.png",
+      "bytes": 210456,
+      "sha256": "b4bf157dc7d1c7f103be23b5da8fae1c23c69453d0d9638d53128f926066bd15"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/confusion_matrix_normalized.png",
+      "bytes": 267058,
+      "sha256": "59f86ebd386c519d1a1cc476dfe29fefa7faed9308bdb1a47fb15b860f2982b0"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/results.csv",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/results.csv",
+      "bytes": 9632,
+      "sha256": "108a870782b3295f4b8b962156dad8e0a8f58184463d3f15b922347b8b664a3f"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/results.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s22/results.png",
+      "bytes": 305238,
+      "sha256": "cba933748cf370f597f00c284344e0a9e3e71b2d9addcf1f903143bf1ccd3e1e"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/BoxF1_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/BoxF1_curve.png",
+      "bytes": 302729,
+      "sha256": "b4568684d5b15bdd9c1f3c56bed7a69ab4c309f48b9b3588818fde040c77d08a"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/BoxPR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/BoxPR_curve.png",
+      "bytes": 248865,
+      "sha256": "77f7328b1b28136c8607dbc7264e0e2f7351badceaef9217f3603ebdbcb92944"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/BoxP_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/BoxP_curve.png",
+      "bytes": 311774,
+      "sha256": "6bc459606fba2114f639fd1c658459e81ee853b33f30f015bb10a99be266d33b"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/BoxR_curve.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/BoxR_curve.png",
+      "bytes": 261583,
+      "sha256": "5253dabd489ed075194a83fa8ba88a1701e2d45e9a6ee77278af10c0291af236"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/args.yaml",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/args.yaml",
+      "bytes": 1715,
+      "sha256": "b438202c99bec2913751081b87cf6e5d9256583035744fb6165460c1e5719576"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/confusion_matrix.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/confusion_matrix.png",
+      "bytes": 208275,
+      "sha256": "6dd082ac77a0f8ac6012a7ab09eb28904dcd4fc8421b04678e56de8825d47a83"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/confusion_matrix_normalized.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/confusion_matrix_normalized.png",
+      "bytes": 269653,
+      "sha256": "5324faca5e59c52bd70536ab0bda4345c7042be4117db55f3bbffa72e5a3cb0c"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/results.csv",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/results.csv",
+      "bytes": 7850,
+      "sha256": "f350f564a338f6e6b1d10cc17eb9a9f5c2f2a268b5cd446597937d0fe3122b39"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/results.png",
+      "snapshot": "reports/training_summaries/validation_20261111_pcb_ind_board_s33/results.png",
+      "bytes": 312054,
+      "sha256": "b6126507e09663cee4922c8136ad1d4a4044844304cd6366106b96918e033335"
+    },
+    {
+      "source": "/home/hyochang/pilot_progress_report_reorganized.docx",
+      "snapshot": "reports/progress_report_reorganized_2026-11-12/pilot_progress_report_reorganized.docx",
+      "bytes": 1064449,
+      "sha256": "55fcce3371828714bdf9b52dbc2adce272f82a17a929a22bd1f1f717e647d445"
+    },
+    {
+      "source": "/home/hyochang/pilot_progress_report_reorganized.pdf",
+      "snapshot": "reports/progress_report_reorganized_2026-11-12/pilot_progress_report_reorganized.pdf",
+      "bytes": 1495846,
+      "sha256": "b1be0d489483ed330c13d5a9d22343fdb4c54530430559da6edb55991ad5a8e9"
+    },
+    {
+      "source": "/home/hyochang/interim_model_yolov8n.docx",
+      "snapshot": "reports/interim_model_2026-11-13/interim_model_yolov8n.docx",
+      "bytes": 108634,
+      "sha256": "0e3e2f4a6afdbfd8ead00d084b96c8cae724a6fede5edc80e6ee0e4247b96246"
+    },
+    {
+      "source": "runs/train/gc10_yolov8n_s11/weights/best.pt",
+      "snapshot": "models/gc10_yolov8n_s11/best.pt",
+      "bytes": 6224938,
+      "sha256": "4c107fd5b8ef0bb8a9eeb8924fa0caf21ebf0f525ab472c839240fcaecb07797"
+    },
+    {
+      "source": "runs/train/neu_det_yolov8n_s11/weights/best.pt",
+      "snapshot": "models/neu_det_yolov8n_s11/best.pt",
+      "bytes": 6252586,
+      "sha256": "d7efdcfb83576c3dff9435b6a36d6d0fa1c9cb8fe747229081e5c549830937b5"
+    },
+    {
+      "source": "runs/train/pcb_ind_yolov8n_s11/weights/best.pt",
+      "snapshot": "models/pcb_ind_yolov8n_s11/best.pt",
+      "bytes": 6251946,
+      "sha256": "0d54d12af5d5004b7c55fbdbd69727f6d7ab743a743ea6d6eeaa72c43f62b76c"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s22/weights/best.pt",
+      "snapshot": "models/validation_20261111_gc10_det_s22/best.pt",
+      "bytes": 6226026,
+      "sha256": "290baaf4090bf49c9320571fb96a75e74fb1e42dd8c0dd0431c1f0676e0b7a32"
+    },
+    {
+      "source": "runs/train/validation_20261111_gc10_det_s33/weights/best.pt",
+      "snapshot": "models/validation_20261111_gc10_det_s33/best.pt",
+      "bytes": 6228842,
+      "sha256": "3e5cd1f788118366ed187594ba506b6cb98ae05f34e92e7d232fe300d6fdd807"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s22/weights/best.pt",
+      "snapshot": "models/validation_20261111_neu_det_s22/best.pt",
+      "bytes": 6255530,
+      "sha256": "26b0d679b6ab0f143033dfb417bac4f6035793bfcff9007641dfba18827fb1c1"
+    },
+    {
+      "source": "runs/train/validation_20261111_neu_det_s33/weights/best.pt",
+      "snapshot": "models/validation_20261111_neu_det_s33/best.pt",
+      "bytes": 6258602,
+      "sha256": "6c37da571086625aaf92ab4ca364cfff45fce2844b8231a3130f906da500af53"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s11/weights/best.pt",
+      "snapshot": "models/validation_20261111_pcb_ind_board_s11/best.pt",
+      "bytes": 6258666,
+      "sha256": "790bfe4a4226da813caef37078720c3afae21e8d55e604b4e0560bcb8b796045"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s22/weights/best.pt",
+      "snapshot": "models/validation_20261111_pcb_ind_board_s22/best.pt",
+      "bytes": 6256746,
+      "sha256": "626b4db151e472e565938549b26268c9d2b3e2b907a0d2f08b0f38553b88f9bb"
+    },
+    {
+      "source": "runs/train/validation_20261111_pcb_ind_board_s33/weights/best.pt",
+      "snapshot": "models/validation_20261111_pcb_ind_board_s33/best.pt",
+      "bytes": 6254826,
+      "sha256": "df13cf96e8926181103386724728845d6fad18f6c12c444d5296715205f22c1f"
+    }
+  ],
+  "omitted_analysis_files": [
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8/analysis/paired_images.csv",
+      "bytes": 6457510,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/evaluation/gc10_det_s11_bright25_g8_p10/analysis/paired_images.csv",
+      "bytes": 21523429,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/evaluation/gc10_s11_frozen/analysis/paired_images.csv",
+      "bytes": 17020657,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright/analysis/paired_images.csv",
+      "bytes": 5729793,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8/analysis/paired_images.csv",
+      "bytes": 4635376,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/evaluation/neu_det_s11_bright25_g8_p10/analysis/paired_images.csv",
+      "bytes": 15450345,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright/analysis/paired_images.csv",
+      "bytes": 8361530,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8/analysis/paired_images.csv",
+      "bytes": 6783783,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/evaluation/pcb_ind_s11_bright25_g8_p10/analysis/paired_images.csv",
+      "bytes": 22603567,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_cluster25/analysis/paired_images.csv",
+      "bytes": 22829206,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k1/analysis/paired_images.csv",
+      "bytes": 19332444,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k25/analysis/paired_images.csv",
+      "bytes": 21523429,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_k9/analysis/paired_images.csv",
+      "bytes": 20419355,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__bright_partial25/analysis/paired_images.csv",
+      "bytes": 22692478,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__dark_k25/analysis/paired_images.csv",
+      "bytes": 20868910,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s11__stuck_k25/analysis/paired_images.csv",
+      "bytes": 21086368,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s22__bright_k25/analysis/paired_images.csv",
+      "bytes": 21515828,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/gc10_det_s33__bright_k25/analysis/paired_images.csv",
+      "bytes": 21649348,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_cluster25/analysis/paired_images.csv",
+      "bytes": 16481490,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k1/analysis/paired_images.csv",
+      "bytes": 14702074,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k25/analysis/paired_images.csv",
+      "bytes": 15450345,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_k9/analysis/paired_images.csv",
+      "bytes": 14868550,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__bright_partial25/analysis/paired_images.csv",
+      "bytes": 16418329,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__dark_k25/analysis/paired_images.csv",
+      "bytes": 15077284,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s11__stuck_k25/analysis/paired_images.csv",
+      "bytes": 15211425,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s22__bright_k25/analysis/paired_images.csv",
+      "bytes": 15279096,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/neu_det_s33__bright_k25/analysis/paired_images.csv",
+      "bytes": 15212064,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_cluster25/analysis/paired_images.csv",
+      "bytes": 32512717,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k1/analysis/paired_images.csv",
+      "bytes": 28283001,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k25/analysis/paired_images.csv",
+      "bytes": 30089375,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_k9/analysis/paired_images.csv",
+      "bytes": 28621836,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__bright_partial25/analysis/paired_images.csv",
+      "bytes": 32302807,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__dark_k25/analysis/paired_images.csv",
+      "bytes": 28988492,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s11__stuck_k25/analysis/paired_images.csv",
+      "bytes": 29456142,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s22__bright_k25/analysis/paired_images.csv",
+      "bytes": 30009790,
+      "reason": "image-level table or large analysis artifact"
+    },
+    {
+      "source": "runs/research_validation_compiled_20261111/pcb_ind_board_s33__bright_k25/analysis/paired_images.csv",
+      "bytes": 30101538,
+      "reason": "image-level table or large analysis artifact"
+    }
+  ],
+  "not_included": [
+    "data/",
+    "runs/ prediction caches and per-image tables",
+    ".venv/",
+    "format-reference source document and extracted text",
+    "temporary PDF previews",
+    "initial and intermediate weights; final best.pt files are included in models/"
+  ]
+}

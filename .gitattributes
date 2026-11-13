@@ -1,0 +1,4 @@
+# Preserve exported CSV bytes and their recorded SHA256, including CRLF endings.
+*.csv -text whitespace=trailing-space,space-before-tab,cr-at-eol
+# Keep archived output formatting unchanged; its bytes are covered by the manifest.
+reports/run_summaries/** -whitespace

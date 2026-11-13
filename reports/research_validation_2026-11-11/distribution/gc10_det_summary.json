@@ -1,0 +1,40 @@
+{
+  "dataset": "gc10_det",
+  "title": "GC10-DET",
+  "n_images": 354,
+  "n_gt": 587,
+  "n_clean_tp": 265,
+  "n_crossfit_proxy_groups": 144,
+  "fold_grouping": "stored group_id",
+  "central_width_height_fraction": 0.25,
+  "central_area_fraction": 0.0625,
+  "central_center_count": 27,
+  "central_center_fraction": 0.04599659284497445,
+  "median_gt_area_px": 48256.0,
+  "median_gt_area_fraction": 0.0235625,
+  "area_tertile_edges_fraction": [
+    0.00628027343546666,
+    0.040772135416666654
+  ],
+  "mean_recall_drop_pp": 0.14879684838160137,
+  "peak_cell": "G47",
+  "peak_drop_pp": 0.8006814310051107,
+  "peak_clean_tp_exposure_fraction": 0.1109433962264151,
+  "spearman_drop_box_occupancy": 0.3851207484219182,
+  "spearman_drop_clean_tp_exposure": 0.2545528922819296,
+  "raw_cell_drop_spatial_sd_pp": 0.22269516096211484,
+  "crossfit_residual_spatial_rms_pp": 0.23752714218701274,
+  "overall_loss_risk_clean_tp": 0.0060849056603773585,
+  "loss_risk_when_hit": 0.03277701778385773,
+  "loss_risk_when_unhit": 0.002861391045762432,
+  "lost_objects_hit_fraction": 0.5804263565891473,
+  "overall_lost_object_observations": 1032,
+  "overall_recovered_object_observations": 473,
+  "n_object_observations": 375680,
+  "crossfit_fallback_observation_counts": {
+    "0": 362201,
+    "1": 13479
+  },
+  "peak_crossfit_expected_drop_pp": 0.11530664259074207,
+  "peak_residual_drop_pp": 0.6853747884143686
+}

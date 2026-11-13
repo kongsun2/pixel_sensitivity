@@ -1,0 +1,7 @@
+dataset,class_id,class_name,n_gt,n_clean_tp,clean_recall
+neu_det,0,crazing,102,37,0.3627450980392157
+neu_det,1,inclusion,136,103,0.7573529411764706
+neu_det,2,patches,128,116,0.90625
+neu_det,3,pitted_surface,68,47,0.6911764705882353
+neu_det,4,rolled-in_scale,95,49,0.5157894736842106
+neu_det,5,scratches,83,74,0.891566265060241

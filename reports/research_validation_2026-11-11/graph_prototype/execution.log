@@ -1,0 +1,40 @@
+{"condition": "clean", "n_images": 32, "partial_eager_fallback": 0, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 1174, "n_candidate_boxes": 1174}
+{"condition": "hot25", "n_images": 32, "partial_eager_fallback": 0, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 1188, "n_candidate_boxes": 1188}
+{"condition": "dark25", "n_images": 32, "partial_eager_fallback": 0, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 1254, "n_candidate_boxes": 1254}
+{"condition": "cluster25", "n_images": 32, "partial_eager_fallback": 0, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 1241, "n_candidate_boxes": 1241}
+{"condition": "clean", "n_images": 17, "partial_eager_fallback": 1, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 729, "n_candidate_boxes": 729}
+{"condition": "hot25", "n_images": 32, "partial_eager_fallback": 0, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 1188, "n_candidate_boxes": 1188}
+{"condition": "dark25", "n_images": 17, "partial_eager_fallback": 1, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 789, "n_candidate_boxes": 789}
+{"condition": "cluster25", "n_images": 32, "partial_eager_fallback": 0, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 1241, "n_candidate_boxes": 1241}
+{"condition": "clean", "n_images": 32, "partial_eager_fallback": 0, "exact_prediction_dicts": true, "per_image_operational_equal": true, "n_reference_boxes": 1174, "n_candidate_boxes": 1174}
+{
+  "status": "complete",
+  "production_integration": false,
+  "source_sha256": "6fa8f1aa9cfa430e0f95ce56487edc9857d86b9272f856924eef5c63f537ae4a",
+  "reference_source_sha256": "98a09e23f8eee3f464764ab42dbc804763577c5d1e968de708b0beb12485d041",
+  "official_docs": "https://docs.pytorch.org/docs/2.9/notes/cuda.html#cuda-graphs",
+  "gpu": 0,
+  "batch": 16,
+  "allocator_cap_gib": 3,
+  "shared_gpu_caveat": "Production inference contexts run simultaneously; timings are warmed alternating observations, not an isolated speed benchmark.",
+  "weights_sha256": "4c107fd5b8ef0bb8a9eeb8924fa0caf21ebf0f525ab472c839240fcaecb07797",
+  "n_validation_images": 32,
+  "all_predictions_exact": true,
+  "all_per_image_decisions_equal": true,
+  "partial_batch_policy": "Eager fallback for any size other than16; no dynamic-shape graph capture",
+  "anchor_reference_count": 2,
+  "captured_anchor_tensors_unchanged": true,
+  "nms_policy": "Clone captured main prediction tensor before original pinned postprocess; CUDA sync before NMS; NMS deadline warning aborts prototype",
+  "peak_allocated_gib": 0.5386061668395996,
+  "peak_reserved_gib": 1.11328125,
+  "whole_batch_median_wall_ms": {
+    "eager": 784.9950920790434,
+    "graph": 828.5775687545538
+  },
+  "whole_batch_observed_ratio_eager_over_graph": 0.9474008489742006,
+  "forward_with_input_copy_for_graph_median_wall_ms": {
+    "eager": 6.83857686817646,
+    "graph": 6.855949759483337
+  },
+  "forward_with_input_copy_for_graph_observed_ratio_eager_over_graph": 0.9974660124539497
+}

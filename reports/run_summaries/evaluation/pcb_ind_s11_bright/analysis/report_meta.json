@@ -1,0 +1,10 @@
+{
+  "source_sha256": "76be56a2dbb5934d5d790049c8990aa15c3e89dce727cf351420a9470af2448f",
+  "run_hash": "a14636fd080a6379fe40104bf24393d07f7a82a684e0661176999947f7477f65",
+  "n_test": 469,
+  "original_area_range": [
+    90000,
+    90000
+  ],
+  "mean_25_pixel_fraction": 0.0002777777777777778
+}
